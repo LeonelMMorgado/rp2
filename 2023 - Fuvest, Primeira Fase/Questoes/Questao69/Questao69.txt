@@ -1,0 +1,46 @@
+Questão 69:
+The expression “dark doldrums” chills the hearts of
+renewable-energy engineers, who use it to refer to the lulls
+when solar panels and wind turbines are thwarted by clouds,
+night, or still air. On a bright, cloudless day, a solar farm can
+generate prodigious amounts of electricity. But at night solar
+cells do little, and in calm air turbines sit useless.
+The dark doldrums make it difficult for us to rely totally on
+renewable energy. Power companies need to plan not just for
+individual storms or windless nights but for difficulties that
+can stretch for days. Last year, Europe experienced a weekslong “wind drought,” and in 2006 Hawaii endured six weeks of
+consecutive rainy days. On a smaller scale, communities that
+want to go all-renewable need to fill the gaps. The obvious
+solution is batteries, which power everything from mobile
+phones to electric vehicles; they are relatively inexpensive to
+make and getting cheaper. But typical models exhaust their
+stored energy after only three or four hours of maximum
+output, and—as every smartphone owner knows—their
+capacity dwindles with each recharge. Moreover, it is
+expensive to collect enough batteries to cover longer
+discharges.
+We already have one kind of renewable energy storage:
+more than ninety per cent of the world’s energy-storage
+capacity is in reservoirs, as part of a technology called
+pumped-storage hydropower, used to smooth out sharp
+increases in electricity demand. Motors pump water uphill
+from a river or a reservoir to a higher reservoir; when the
+water is released downhill, it spins a turbine, generating
+power. A pumped-hydro installation is like a giant, permanent
+battery, charged when water is pumped uphill and depleted
+as it flows down. Some countries are expanding their use of
+pumped hydro, but the right geography is hard to find,
+permits are difficult to obtain, and construction is slow and
+expensive. The hunt is on for new approaches to energy
+storage.
+The New Yorker. Abril, 2022. Adaptado.
+Na frase “But typical models exhaust their stored energy after
+only three or four hours of maximum output, and—as every
+smartphone owner knows—their capacity dwindles with each
+recharge.” (2º parágrafo), “dwindles” poderia ser substituído,
+sem prejuízo de sentido, por
+(A) improves.
+(B) directs.
+(C) propagates.
+(D) breaks.
+(E) decreases.

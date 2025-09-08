@@ -1,0 +1,23 @@
+Questão 77:
+Um tradicional brinquedo infantil, conhecido como bate-bate,
+é composto por duas esferas (bolinhas) de massas iguais
+conectadas cada qual por uma corda e amarradas num ponto
+comum. Desloca-se a bolinha 1 de uma altura ℎ, conforme
+ilustrado no arranjo:
+{imagem}
+Ao soltar a esfera 1, ela colidirá com a bolinha 2, inicialmente
+em repouso. Supondo que a colisão seja perfeitamente
+elástica, verifica-se que, após a colisão, a esfera 2 subirá para
+a mesma altura ℎ. Imagine agora que uma pequena goma
+colante seja colocada numa das esferas de modo que, após a
+colisão, ambas permaneçam unidas. Neste caso, após a
+colisão, a altura alcançada pelo sistema formado pelas duas
+bolinhas unidas será:
+(A) h/8
+(B) h/4
+(C) h/3
+(D) h/2
+(E) h
+
+Note e adote:
+Desconsiderar a massa da goma.

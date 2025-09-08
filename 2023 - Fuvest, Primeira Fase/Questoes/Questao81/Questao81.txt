@@ -1,0 +1,19 @@
+Questão 81:
+Os três gráficos mostram o comportamento circadiano das
+variáveis hormônio melatonina (produzida na glândula
+pineal), hormônio cortisol (produzido nas glândulas suprarenais) e temperatura corpórea em indivíduos saudáveis ao
+longo do dia (retângulo claro) e da noite (retângulo escuro).
+As linhas azuis (pontilhadas) correspondem a indivíduos mais
+jovens, e as vermelhas (contínuas), a indivíduos mais idosos
+{imagem}
+Com base nos gráficos, é correto afirmar que
+(A) as amplitudes das variáveis são menores nos indivíduos
+mais idosos.
+(B) indivíduos jovens sentem mais sono durante o dia porque
+produzem mais melatonina que os mais idosos.
+(C) picos de alta na produção desses hormônios diminuem o
+estado de vigília e causam a condição de sono à noite.
+(D) o pico de melatonina causa a menor temperatura em
+pessoas mais idosas em relação às mais jovens à noite.
+(E) o cortisol não demonstra ritmo circadiano, o qual ocorre
+apenas na melatonina e na temperatura.

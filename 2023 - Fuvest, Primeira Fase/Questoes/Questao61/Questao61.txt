@@ -1,0 +1,22 @@
+Questão 61:
+A figura a seguir mostra indivíduos de uma espécie de erva
+daninha ao longo de um trajeto de aproximadamente 100 km,
+desde uma área urbanizada (na porção inferior esquerda, em
+tons de rosa) até uma área de floresta (na porção superior
+direita, em tons de verde). Essas áreas urbanizadas e de
+floresta estão separadas por uma linha tracejada branca. As
+ervas daninhas amarelas são aquelas que produzem um
+composto que age como defesa química contra a herbivoria.
+As ervas daninhas azuis não produzem esse composto. 
+{imagem}
+Com base nas informações fornecidas, é correto afirmar:
+(A) Há menor herbivoria sobre essa população em áreas
+urbanas.
+(B) Há uma abundância maior de insetos herbívoros em áreas
+urbanas.
+(C) Essa espécie de erva daninha não consegue sobreviver em
+áreas de florestas.
+(D) Há competição interespecífica entre os indivíduos que
+produzem ou não o composto.
+(E) A produção ou não do composto corresponde a duas
+espécies diferentes.

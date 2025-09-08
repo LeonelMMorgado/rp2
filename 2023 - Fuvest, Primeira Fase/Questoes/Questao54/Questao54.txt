@@ -1,0 +1,19 @@
+Questão 54:
+Pinturas na tumba de um faraó do século XIX a.C. sugerem que
+os antigos egípcios adicionavam água à areia em frente aos
+trenós utilizados para transportar grandes peças, como
+pedras para pirâmides. Esse transporte era realizado por
+carregadores que puxavam os trenós sobre a areia. 
+{imagem}
+Em 2014, cientistas realizaram medidas para testar essa
+hipótese e, sob certas condições, encontraram os coeficientes
+de atrito cinético entre o trenó e a areia listados na tabela:
+{imagem}
+Considerando as informações da tabela, qual conteúdo de
+água na areia tornaria mais fácil o transporte das peças pelos
+carregadores?
+(A) 0% (areia seca)
+(B) 1,5%
+(C) 3,2%
+(D) 7,4%
+(E) O conteúdo de água não afeta o transporte.

@@ -1,0 +1,16 @@
+Questão 89: (Arrumar)
+Considere a região do plano cartesiano
+{imagem}
+esboçada na figura.
+{imagem}
+Dado 𝐵 = ሼ(𝑥, 𝑦) ∈ ℝଶ: (𝑥+1)ଶ + 𝑦ଶ ≥ 1ሽ, a área da região
+𝐴∩𝐵 é:
+(A) 2 − గ
+ସ
+(B) 2 − గ
+ଶ
+(C) 4 + గ
+ଶ
+(D) 4 − గ
+ସ
+(E) 2 + గ

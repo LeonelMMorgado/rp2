@@ -1,0 +1,15 @@
+Questão 51:
+“Em um mapa produzido com a técnica da anamorfose
+geográfica, cada país é redesenhado de forma que seu
+polígono tenha uma deformação proporcional a um tema de
+interesse. Com essa técnica, é possível visualizá-lo de uma
+forma mais direta e clara”.
+Disponível em https://educa.ibge.gov.br/. Adaptado.
+Observe o mapa com dados de 2015:
+{imagem}
+Os dados representados no mapa são condizentes com:
+(A) Número de nascimentos vivos.
+(B) Produto Interno Bruto.
+(C) Total de população urbana.
+(D) Produção de petróleo.
+(E) Refugiados conforme o país de origem.

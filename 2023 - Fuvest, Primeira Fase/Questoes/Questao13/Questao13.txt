@@ -1,0 +1,25 @@
+Questão 13:
+Diversos processos na indústria de óleo e gás podem envolver
+misturas de gases a diferentes temperaturas. Um sistema
+isolado é composto por dois compartimentos de mesmo
+volume: o primeiro é ocupado por n1 = 1 mol e o segundo é
+ocupado por n2 = 2 mols de um gás ideal monoatômico.
+Inicialmente cada compartimento encontra-se em equilíbrio
+térmico, com temperatura T1 = 4T e T2 = T, respectivamente, conforme mostra a figura:
+{imagem}
+A partir de certo instante, a parede que separa os
+compartimentos é removida e, após algum tempo, o sistema
+atinge uma nova temperatura de equilíbrio Tm. Supondo que
+não há trabalho realizado após a remoção da parede, nem
+troca de calor entre o sistema e o ambiente externo, a
+temperatura de equilíbrio Tm é dada por:
+(A) T
+(B) 3T/2
+(C) 2T
+(D) 5T/2
+(E) 4T
+
+Note e adote:
+A energia interna de um gás ideal monoatômico é dada por 𝑈 = 3𝑛𝑅𝑇/2,
+sendo 𝑛 o número de mols, 𝑅 a constante universal dos gases ideais e 𝑇 a
+temperatura absoluta

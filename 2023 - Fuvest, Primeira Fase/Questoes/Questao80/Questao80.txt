@@ -1,0 +1,39 @@
+Questão 80: (Arrumar)
+O processo de transporte de O2 para a respiração pode ser
+entendido como um processo de equilíbrio químico entre a
+hemoglobina (Hb) e o O2. A Hb é uma proteína do sangue
+responsável pelo transporte do O2 que também pode existir
+na forma protonada como HbH+
+. Dependendo da
+concentração de CO2, podem ocorrer a alcalose ou a acidose
+respiratória. A ligação do oxigênio com a HbH+
+ gera a forma
+oxigenada (HbO2), como pode ser representado pela equação
+química simplificada:
+HbH+
+(aq) + O2(g) ⇌ HbO2(aq) + H+
+(aq)
+O dióxido de carbono liberado na respiração pode alterar esse
+equilíbrio devido à formação de ácido carbônico,
+representado pela equação:
+CO2(g) + H2O(l) ⇌ H+
+(aq) + HCO3
+−
+(aq)
+Com base nessas informações, é correto afirmar:
+(A) Nos pulmões, onde a concentração de oxigênio é mais
+elevada, a forma de hemoglobina favorecida é a
+protonada.
+(B) Nos tecidos humanos, onde é consumido O2 pelo
+metabolismo, a forma de hemoglobina favorecida é a
+HbO2.
+(C) Quando uma pessoa expira mais depressa que o normal, a
+concentração de dióxido de carbono no seu sangue
+diminui e, nessas situações, a forma de hemoglobina
+favorecida é a forma protonada.
+(D) Nos tecidos humanos, onde é liberado dióxido de carbono
+produzido pelo metabolismo, a forma de hemoglobina
+favorecida é a forma protonada.
+(E) Nos tecidos humanos, onde é liberado dióxido de carbono
+produzido pelo metabolismo, a forma de hemoglobina
+favorecida é a HbO2.

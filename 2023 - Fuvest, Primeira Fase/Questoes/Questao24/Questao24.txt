@@ -1,0 +1,15 @@
+Questão 24:
+André e Bianca possuem automóveis que podem ser
+abastecidos com etanol, gasolina ou uma mistura dos dois
+combustíveis. Em um mesmo posto de combustível, André
+abasteceu seu carro com 18 litros da bomba de etanol e 32
+litros da bomba de gasolina; já Bianca abasteceu seu carro
+com 30 litros da bomba de etanol e 20 litros da bomba de
+gasolina. Sabendo que o valor total pago por André foi 10%
+maior do que o pago por Bianca, a razão entre os preços, por
+litro, de etanol e de gasolina é:
+(A) 5/8
+(B) 2/3
+(C) 7/10
+(D) 3/4
+(E) 4/5

@@ -1,0 +1,22 @@
+Questão 12:
+Em um estudo, pesquisadores mostraram que a energia de
+interação (E) de SO3 com diversas espécies tem relação com a
+distância da ligação S=O (DS=O), como representado na figura. 
+{imagem}
+A energia de interação de uma espécie com outra pode ser
+entendida como a energia
+necessária para desfazer a
+interação entre o SO3 e os
+compostos estudados (X), como
+representado na figura ao lado.
+{imagem} 
+Considerando essas informações, é correto afirmar que
+(A) a interação mais forte ocorre entre SO3 e MeCN.
+(B) quanto mais forte a interação entre moléculas, mais longa
+é a ligação S=O.
+(C) a interação de SO3 e NH3 é a que faz com que a ligação S=O
+se alongue mais.
+(D) a ligação S=O se torna mais curta com o aumento da
+energia de interação entre moléculas.
+(E) a energia de interação do SO3 com uma molécula de HCN
+é do mesmo valor do que com uma molécula de NH3.

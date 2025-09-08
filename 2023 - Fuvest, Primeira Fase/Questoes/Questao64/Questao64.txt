@@ -1,0 +1,16 @@
+Questão 64:
+O mapa mostra a variação do número de espécies de aves no
+território brasileiro, com as linhas indicando os limites dos
+biomas. 
+{imagem}
+Com base no mapa, a diversidade de aves mostra-se
+(A) mais alta nas regiões onde predominam florestas e mais
+baixa nas regiões onde predomina vegetação mais aberta.
+(B) igualmente alta nas regiões tropicais e mais baixa nas
+regiões subtropicais.
+(C) igualmente baixa nas regiões mais orientais e mais alta nas
+regiões ocidentais.
+(D) mais alta nas regiões mais quentes e mais baixa nas
+regiões mais frias.
+(E) mais alta nas regiões que se situam mais próximas ao mar
+e mais baixa nas regiões mais interiores.

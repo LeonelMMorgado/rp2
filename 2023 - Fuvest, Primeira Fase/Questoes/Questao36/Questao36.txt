@@ -1,0 +1,18 @@
+Questão 36:
+Na teoria musical, o intervalo entre duas notas é medido pela
+razão entre suas frequências (medidas em Hz). Na escala
+pitagórica, os intervalos de um tom e de um semitom
+correspondem, respectivamente, às razões 9/8 e 256/243. A soma
+de intervalos corresponde ao produto das razões. Por
+exemplo, no intervalo de dois tons, a razão entre as
+frequências é de 9/8 . 9/8 = 81/64
+{imagem}
+Em um instrumento afinado de acordo com a escala
+pitagórica, se o intervalo entre uma nota de 220 Hz e outra de
+990 Hz é composto por n tons e m semitons, a soma m+n é
+igual a:
+(A) 13
+(B) 14
+(C) 15
+(D) 16
+(E) 17

@@ -1,0 +1,18 @@
+Questão 71: (Arrumar)
+Uma das apostas para a produção de energia limpa, sem
+emissão de gases de efeito estufa e sem geração de resíduos
+radioativos, é a fusão nuclear, como a que ocorre nas estrelas.
+Em laboratório, são utilizados os isótopos de hidrogênio
+deutério (ଵ𝐻ଶ ) e trítio (ଵ𝐻ଷ ), que, dentro de um intenso campo
+magnético, são aquecidos a 150 milhões de graus Celsius.
+Nessas condições, ଵ𝐻ଶ e ଵ𝐻ଷ fundem-se formando ଶ𝐻𝑒 ସ e um
+outro subproduto, além de liberar uma grande quantidade de
+energia.
+Com base nessas informações, assinale a alternativa que traz
+as informações corretas sobre qual é o subproduto formado e
+sobre a variação de entalpia desse processo.
+(A) Próton; ΔH<0
+(B) Próton; ΔH>0
+(C) Nêutron; ΔH<0
+(D) Nêutron; ΔH>0
+(E) Elétron; ΔH<0

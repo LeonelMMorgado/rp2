@@ -1,0 +1,20 @@
+Questão 88:
+Um ladrilhamento é chamado de uniforme se é composto por
+polígonos regulares que preenchem todo o plano sem
+sobreposição e, além disso, o padrão é o mesmo em cada
+vértice. Para classificá-los, utilizamos uma notação dada por
+uma sequência de números que é definida desta forma:
+escolhemos um vértice qualquer e indicamos o número de
+lados de cada polígono que contém este vértice, seguindo o
+sentido anti-horário, iniciando com os polígonos de menos
+lados, conforme os exemplos: 
+{imagem}
+A foto mostra o piso de um museu em Sevilha. 
+{imagem}
+A notação que representa o padrão do ladrilhamento do piso
+é:
+(A) (3 . 3 . 3 . 4)
+(B) (3 . 3 . 4 . 6)
+(C) (3 . 4 . 4 . 4)
+(D) (3 . 4 . 4 . 6)
+(E) (3 . 4 . 6 . 4)

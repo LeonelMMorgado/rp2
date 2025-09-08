@@ -1,0 +1,13 @@
+Questão 26:
+A tabela fornece informações sobre fatores ambientais
+relacionados a duas regiões de floresta, uma com alto grau de
+degradação (I) e outra com baixo grau de degradação (II). 
+{imagem}
+Com base nos dados da tabela, qual fenômeno pode causar
+maior grau de degradação das florestas da região I em
+comparação com aquelas da região II?
+(A) Chuva ácida.
+(B) Aquecimento global.
+(C) Congelamento.
+(D) Déficit hídrico.
+(E) Calor extremo no verão.

@@ -1,0 +1,19 @@
+Questão 56:
+O cientista Richard Feynman, prêmio Nobel de Física em 1965,
+fez comentários sobre o processo de combustão em uma
+entrevista chamada Fun to Imagine. Segundo ele, à primeira
+vista, é impressionante pensar que os átomos de carbono de
+uma árvore não entram em combustão com o oxigênio da
+atmosfera de forma espontânea, já que existe uma grande
+afinidade entre essas espécies para a formação de CO2.
+Entretanto, quando a reação tem início, o fogo se espalha
+facilmente.
+Essa aparente contradição pode ser explicada pois
+(A) a reação depende de um processo que concentre o
+carbono para ocorrer.
+(B) o fogo torna a reação desfavorável.
+(C) o fogo depende da presença de CO2 para começar.
+(D) o átomo de carbono da árvore é muito mais resistente ao
+O2 do que os átomos de carbono dispersos no fogo.
+(E) a reação precisa de uma energia de ativação para
+começar.

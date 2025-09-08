@@ -1,0 +1,23 @@
+Questão 67:
+Termistores são termômetros baseados na variação da
+resistência elétrica com a temperatura e são utilizados em
+diversos equipamentos, como termômetros digitais
+domésticos, automóveis, refrigeradores e fornos. A curva de
+calibração de um termistor é mostrada na figura:
+{imagem}
+Considere que o termistor se rompa quando percorrido por
+uma corrente maior do que 10 mA. Supondo que o termistor
+seja conectado a uma bateria de 5 V, assinale a alternativa que
+contém uma faixa de temperaturas em que o dispositivo
+sempre funcionará adequadamente:
+(A) 10℃ < 𝑇 < 35℃
+(B) 20℃ < 𝑇 < 45℃
+(C) 30℃ < 𝑇 < 55℃
+(D) 40℃ < 𝑇 < 65℃
+(E) 50℃ < 𝑇 < 75℃
+
+Note e adote:
+A relação entre a resistência 𝑅 de
+um dispositivo, a corrente 𝐼 que o
+percorre e a diferença de potencial
+elétrico 𝑉 e

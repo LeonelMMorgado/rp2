@@ -1,0 +1,14 @@
+Questão 28:
+O gráfico mostra a variação no número de folhas de uma
+espécie de árvore ao longo do ano, bem como a variação da
+temperatura mínima e da pluviosidade no local em que há
+presença dessa planta.
+Com base na variação no número de folhas, essa planta é
+característica de clima I, e tal variação está relacionada a
+II.
+As lacunas I e II são corretamente preenchidas por
+(A) I: tropical II: temperaturas mínimas altas e muita chuva nos meses mais frios 
+(B) I: temperado II: temperaturas mínimas baixas e pouca chuva nos meses mais quentes
+(C) I: tropical II: temperaturas mínimas altas e pouca chuva nos meses mais quentes 
+(D) I: temperado II: temperaturas mínimas baixas e pouca chuva nos meses mais frios 
+(E) I: equatorial II: temperaturas mínimas baixas e muita chuva nos meses mais quentes

@@ -1,0 +1,11 @@
+Questão 86:
+Para medir o volume de uma pedra com formato irregular,
+Ana utilizou um recipiente cilíndrico de raio r = 8cm e com
+água até a altura de 20 cm. Após colocar a pedra no
+recipiente, a altura da água subiu para 23,5cm. 
+{imagem}
+O volume da pedra é:
+(A) 128𝜋 cm³
+(B) 224𝜋 cm³
+(C) 240𝜋 cm³
+(D) 282𝜋 cm³

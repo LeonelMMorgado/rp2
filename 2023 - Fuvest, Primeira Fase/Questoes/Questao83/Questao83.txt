@@ -1,0 +1,18 @@
+Questão 83:
+O heredograma a seguir mostra o aparecimento de AME
+(atrofia muscular espinhal) em um menino, filho de um casal
+de primos. 
+{imagem}
+A AME é uma doença autossômica recessiva rara, muitas
+vezes fatal na primeira infância, provocada pela morte de
+neurônios motores. Uma das causas da AME é uma mutação
+no gene SMN1, cuja frequência é de 2% na população sem
+AME (uma em cada 50 pessoas tem um alelo mutante).
+Considerando os genótipos prováveis da mulher II.2 e que não
+há relação de parentesco com seu parceiro, a probabilidade
+de uma criança deste casal ser portadora da AME é uma em:
+(A) 50
+(B) 100
+(C) 200
+(D) 300
+(E) 600

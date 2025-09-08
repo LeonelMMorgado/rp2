@@ -1,0 +1,17 @@
+Questão 85: (arrumar)
+A FIFA (Federação Internacional de Futebol) implementou, em
+2018, a versão mais recente do ranking das seleções. Suponha
+que as seleções A e B, com pontuações 𝑃஺ e 𝑃஻,
+respectivamente, disputarão uma final de Copa do Mundo.
+A pontuação atualizada da seleção A após a partida será dada
+por
+𝑃஺
+ᇱ = 𝑃஺ + 60(𝑉஺ − 𝐸஺),
+onde
+𝐸஺ = 10
+௉ಲି௉ಳ
+଺଴଴
+1 + 10
+௉ಲି௉ಳ
+଺଴଴
+e o valor de 𝑉஺ depende do resultado da partida de acordo

@@ -1,0 +1,15 @@
+Questão 66:
+O Brasil é o país recordista mundial em queda de raios, com
+uma estimativa de mais de 70 milhões de eventos desse tipo
+por ano.
+Uma descarga elétrica dessas pode envolver campos elétricos
+da ordem de dez kilovolts por metro e um deslocamento de
+30 coulombs de carga em um milésimo de segundo.
+Com base nessas estimativas e assumindo o campo elétrico
+como sendo constante, a potência associada a um raio de
+100 m de comprimento corresponde a:
+(A) 30 GW
+(B) 3 GW
+(C) 300 MW
+(D) 30 MW
+(E) 3 MW

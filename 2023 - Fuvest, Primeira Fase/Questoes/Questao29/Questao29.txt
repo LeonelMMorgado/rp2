@@ -1,0 +1,23 @@
+Questão 29:
+A figura a seguir ilustra o xiquexique, um cacto nativo da Caatinga. 
+{imagem}
+Dada sua alta capacidade de armazenamento de água, a
+planta é muito utilizada para alimentação de bovinos, de
+caprinos e, inclusive, de seres humanos, especialmente
+durante os períodos de seca, como aludido em Angústia:
+(...) “Amaro vaqueiro alimentava-se, nas secas, com sementes
+de mucunã lavadas em sete águas, raiz de imbu, miolo de
+xiquexique, e de tempos a tempos furtava uma cabra no
+chiqueiro e atirava a culpa à suçuarana”.(...)
+Graciliano Ramos, Angústia.
+O acúmulo de água no xiquexique é possível pela
+(A) diminuição da perda de água devido às folhas modificadas
+em espinhos.
+(B) menor taxa de fotossíntese, por apresentarem menor área
+de superfície foliar.
+(C) presença de células especializadas no parênquima
+aquífero do caule da planta.
+(D) raiz avantajada que capta melhor a água disponível na
+superfície do solo.
+(E) adaptação das folhas que podem acumular água em seu
+interior.

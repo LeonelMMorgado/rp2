@@ -1,0 +1,24 @@
+Questão 15:
+A figura representa três momentos sucessivos da população
+adulta de uma determinada espécie de peixe em uma região
+na qual há atividade pesqueira. O momento I representa a
+composição da população adulta antes da pesca. No
+momento II, observam-se os sobreviventes adultos logo após
+a pesca. O momento III representa os indivíduos adultos após
+alguns ciclos de reprodução. 
+{imagem}
+Baseado na figura, é correto afirmar que
+(A) o impacto causado pela atividade de pesca alterou a
+produtividade primária do local, o que resultou em uma
+população de peixes menores ao longo do tempo.
+(B) a população não conseguiu recuperar sua abundância de
+indivíduos após a atividade de pesca, o que a levará ao
+colapso a médio e longo prazos.
+(C) os indivíduos maiores não conseguem se reproduzir
+depois da pesca devido ao estresse fisiológico causado por
+essa atividade.
+(D) essa atividade de pesca é sustentável a longo prazo e não
+causa impacto à população de peixes daquele local.
+(E) a pesca priorizou os peixes maiores, causando uma
+seleção artificial que resultou em uma população de
+peixes menores ao longo do tempo.

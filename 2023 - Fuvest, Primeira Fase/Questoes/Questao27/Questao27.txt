@@ -1,0 +1,19 @@
+Questão 27:
+O estado de São Paulo, por suas características climáticas,
+apresenta, no outono e no inverno, probabilidade de
+ocorrência de geada. 
+{imagem}
+Com base em seu conhecimento sobre o estado de São Paulo
+e os fatores que contribuem para a formação de geadas, é
+correto inferir que a maior ocorrência de geadas no estado de
+São Paulo está associada
+(A) às maiores altitudes da Serra da Mantiqueira, que
+contribuem para reduzir a temperatura do ar.
+(B) às baixas altitudes do Vale do rio Ribeira de Iguape, que
+contribuem para a entrada de ar frio.
+(C) ao efeito da maritimidade, que injeta ar frio para o
+continente, diminuindo a temperatura do ar.
+(D) às grandes extensões do Planalto Ocidental Paulista, que
+favorecem o acúmulo de ar frio.
+(E) à ausência de cobertura vegetal em grande parte do
+território paulista, que potencializa o resfriamento noturno.

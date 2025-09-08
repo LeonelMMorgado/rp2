@@ -1,0 +1,23 @@
+Questão 25:
+Combustíveis fósseis, como o diesel, contém em sua
+composição uma fração de enxofre. Durante o processo de
+combustão, o enxofre é convertido em SO2, tornando-se um
+poluente ambiental. Em postos de combustível, normalmente
+são comercializados dois tipos de diesel, o Diesel S10 e o
+Diesel S500. O primeiro contém 10 ppm de enxofre, e o
+segundo, 500 ppm de enxofre.
+Considere que na combustão do diesel, todo enxofre seja
+convertido em SO2, conforme reação a seguir:
+S(s) + O2(g) → SO2(g)
+Nesse caso, a diferença de massa de SO2 emitido para a
+atmosfera por kg de diesel quando cada um dos dois tipos é
+queimado é de
+(A) 245 mg/kg.
+(B) 490 mg/kg.
+(C) 980 mg/kg.
+(D) 1960 mg/kg.
+(E) 3920 mg/kg.
+
+Note e adote:
+Massas molares (g/mol): O = 16; S = 32.
+1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel

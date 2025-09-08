@@ -1,0 +1,19 @@
+Questão 21:
+Em uma feira de produtos orgânicos é vendido arroz a granel.
+A gerente da feira decidiu oferecer descontos progressivos na
+venda de arroz, de acordo com os seguintes critérios:
+• Quem comprar exatamente 1 kg de arroz paga
+R$ 5,00.
+• Quanto maior for a quantidade que o cliente
+comprar, maior será o total a pagar.
+• Quanto maior for a quantidade que o cliente
+comprar, menor será o valor por quilo.
+Cada uma das alternativas listadas apresenta uma possível
+fórmula para o total que o cliente irá pagar, em reais, se
+comprar uma quantidade 𝑥, em quilos, de arroz. A única
+alternativa que atende aos critérios estabelecidos é:
+(A) 5x²
+(B) 5√x
+(C) 5/x
+(D) 5x
+(E) 5x - x²

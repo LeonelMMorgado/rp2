@@ -1,0 +1,10 @@
+Questão 90:
+No plano cartesiano, os pontos (3,2) e (5,4) pertencem ao
+gráfico da função dada por
+y = log2(ax + b).
+O valor de a+b é:
+(A) -8
+(B) -6
+(C) 0
+(D) 4
+(E) 8

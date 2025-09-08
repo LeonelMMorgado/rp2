@@ -1,0 +1,20 @@
+Questão 20:
+“Para reduzir a dependência de fertilizantes importados para
+a agricultura, especialmente o nitrogênio, cientistas têm
+trabalhado no desenvolvimento de organismos
+geneticamente modificados que podem ser úteis no cultivo de
+plantações. Uma das propostas é transferir genes das
+bactérias fixadoras de nitrogênio para as organelas que mais
+se assemelham a esses microorganismos, viabilizando a
+fixação de nitrogênio diretamente do ar pelas plantas que não
+se associam a essas bactérias simbiontes”.
+Disponível em https://news.mit.edu/2020/. Adaptado.
+A modificação genética citada
+(A) criará uma nova espécie de planta resistente a herbicidas.
+(B) será realizada nos plastos ou mitocôndrias das plantas.
+(C) permitirá que bactérias fixadoras de nitrogênio se tornem
+mais eficientes.
+(D) fará com que as células bacterianas sejam incorporadas
+nos tecidos das plantas.
+(E) gerará riscos para o consumo humano pela possibilidade
+de ingestão de genes de bactérias.

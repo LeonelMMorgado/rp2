@@ -1,0 +1,11 @@
+Questão 87:
+Dado um número natural n≥2, o primorial de n, denotado
+por n#, é o produto de todos os números primos menores
+que ou iguais a n. Por exemplo,
+6# = 2 . 3 . 5 = 30.
+O menor número da forma n# que é maior que 2000 é:
+(A) 2300
+(B) 2305
+(C) 2310
+(D) 2312
+(E) 2322

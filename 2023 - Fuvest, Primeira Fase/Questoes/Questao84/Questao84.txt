@@ -1,0 +1,12 @@
+Questão 84:
+Um professor precisa elaborar uma prova multidisciplinar que
+consta de duas questões de Matemática e seis de Física. Ele
+deve escolher questões de um banco de dados que contém
+três questões de Matemática e oito de Física. O número de
+provas distintas possíveis, sem levar em conta a ordem em
+que as questões aparecem, é:
+(A) 42
+(B) 54
+(C) 62
+(D) 72
+(E) 84

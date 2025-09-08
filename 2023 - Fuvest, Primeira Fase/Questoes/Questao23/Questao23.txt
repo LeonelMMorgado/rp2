@@ -1,0 +1,24 @@
+Questão 23:
+Alguns aviões empregam fibra de carbono em uma
+porcentagem significativa de suas estruturas, tornando-as
+muito menos densas. Partes da estrutura, no entanto, são
+compostas por metais. Devido à baixa densidade, o alumínio
+seria uma boa alternativa de metal a ser usado. Entretanto,
+quando em contato com fibra de carbono, o alumínio é
+corroído. Esse processo é denominado corrosão galvânica e
+acontece quando dois materiais que possuem potencial
+elétrico diferentes são colocados em contato com um
+eletrólito, como uma solução salina. Para abordar esse
+problema, pode-se avaliar os potenciais elétricos, densidade
+e preço aproximado de diversos materiais apresentados na
+figura a seguir. 
+{imagem}
+Considerando o exposto, o elemento mais adequado para ser
+utilizado no lugar do alumínio de forma a obter os menores
+custo e densidade possíveis, com a máxima resistência a
+corrosão possível, é:
+(A) Ouro.
+(B) Titânio.
+(C) Prata.
+(D) Cádmio.
+(E) Zinco.

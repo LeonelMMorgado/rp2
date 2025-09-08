@@ -1,0 +1,11 @@
+Questão 22:
+Joana comprou um celular e dividiu o pagamento em 24
+parcelas mensais que formam uma progressão aritmética
+crescente. As três primeiras parcelas foram de R$ 120,00,
+R$ 126,00 e R$ 132,00. Sabendo que, ao final, constatou-se
+que Joana não pagou a 19ª parcela, o valor pago por ela foi:
+(A) R$ 3.954,00
+(B) R$ 4.026,00
+(C) R$ 4.200,00
+(D) R$ 4.308,00
+(E) R$ 4.382,00

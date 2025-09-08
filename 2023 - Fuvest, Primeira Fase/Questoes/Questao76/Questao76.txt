@@ -1,0 +1,26 @@
+Questão 76:
+Os lagartos do gênero Basiliscus têm a capacidade incomum
+de correr sobre a água. Essa espécie possui uma membrana
+entre os dedos que aumenta a área superficial de suas patas
+traseiras. Com uma combinação de forças verticais de suporte
+e forças horizontais propulsivas geradas pelo movimento de
+suas patas na água, o lagarto consegue obter impulso
+resultante para cima e para frente, conforme figura a seguir.
+Isso garante uma estabilidade dinâmica na superfície da água,
+em corridas que podem chegar a dezenas de metros,
+dependendo do peso e da idade do animal. 
+{imagem}
+Sobre esse movimento, é correto afirmar:
+(A) A componente vertical da reação à força gerada pelas
+patadas na água compensa o peso do animal, fazendo com
+que ele não afunde.
+(B) O mecanismo de flutuação do lagarto advém de um
+equilíbrio hidrostático, que pode ser explicado pelo
+princípio de Arquimedes.
+(C) Por ser um meio viscoso, a água possui um atrito
+desprezível, facilitando a flutuação.
+(D) A alta salinidade da água é uma condição necessária para
+que ocorra um equilíbrio entre as forças envolvidas no
+movimento.
+(E) A tensão superficial da água, por si só, é suficiente para
+impedir que o animal afunde.

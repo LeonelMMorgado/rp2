@@ -1,0 +1,27 @@
+Questão 17:
+Poluentes orgânicos persistentes (POPs) são compostos que
+persistem no ambiente por longos períodos, ou seja, são
+pouco degradados naturalmente, magnificam-se ao longo da
+teia trófica e provocam efeitos adversos à saúde e ao meio
+ambiente. Entre eles estão alguns compostos orgânicos
+clorados utilizados como pesticidas e isolantes de chamas.
+Uma das características dos POPs é que são pouco
+hidrossolúveis, com elevada tendência de interagir com
+lipídeos. Uma forma padronizada de se medir essa tendência
+é pelo cálculo do coeficiente de partição octanol-água (Kow).
+Esse coeficiente representa a razão entre a concentração de
+um composto na fase de n-octanol e sua concentração na fase
+aquosa (Kow = Co/Cw) após a mistura e separação das fases.
+Com base nessas informações, assinale a alternativa correta.
+(A) Por possuírem KOW muito baixo, os POPs não se
+solubilizam nem na água nem no octanol.
+(B) O KOW não pode ser determinado para os POPs, pois
+octanol e água são completamente miscíveis.
+(C) Uma vez que os POPs se magnificam ao longo da teia
+trófica, sua concentração é maior em produtores
+primários.
+(D) Os compostos clorados são pouco solúveis em água, de
+forma que o NaCl pode ser considerado um POP.
+(E) POPs possuem KOW elevado, solubilizando-se mais
+facilmente na fase orgânica por serem substâncias
+lipossolúveis.

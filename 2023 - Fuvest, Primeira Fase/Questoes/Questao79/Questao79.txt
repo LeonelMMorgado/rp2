@@ -1,0 +1,20 @@
+Questão 79:
+O slam ball é um exercício funcional no qual o praticante eleva
+uma bola especial acima da cabeça e, após uma breve pausa,
+a atira no chão, como mostra figura:
+{imagem}
+Considere uma pessoa de 1,70 m que eleva uma bola de 6 kg
+a uma altura de 40 cm acima da sua cabeça. Em seguida, a
+pessoa realiza sobre a bola um trabalho adicional de 10
+calorias para arremessá-la. Se a colisão da bola com o solo for
+perfeitamente inelástica, a energia total dissipada na colisão
+será de 
+
+(A) 10 cal.
+(B) 20 cal.
+(C) 30 cal.
+(D) 40 cal.
+(E) 50 cal.
+
+Note e adote:
+Considere 1 cal = 4,2 J e g = 10 m/s².

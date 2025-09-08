@@ -1,0 +1,15 @@
+Questão 62:
+Os gráficos mostram a variação da biomassa de duas
+populações (A e B) de uma planta herbácea ao longo da
+sucessão primária. Em ambos os casos, em um dado momento
+indicado no gráfico, ocorre a chegada de indivíduos de uma
+outra espécie que interagem com essa planta na comunidade.
+{imagem}
+Os dois tipos de interagentes que poderiam causar os efeitos
+representados nos gráficos para as populações A e B,
+respectivamente, são
+(A) um competidor e um herbívoro.
+(B) um parasita e um comensal.
+(C) um competidor e um parasita.
+(D) um mutualista e um herbívoro.
+(E) um comensal e um mutualista.

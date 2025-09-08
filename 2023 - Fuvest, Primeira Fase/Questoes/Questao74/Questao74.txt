@@ -1,0 +1,16 @@
+Questão 74: (Arrumar)
+A obra “Rosa e Azul”, também conhecida como “As Meninas
+Cahen d’Anvers”, é uma pintura a óleo de Pierre-Auguste
+Renoir. 
+{imagem}
+Numa aula de artes, solicitou-se aos alunos que fizessem uma
+releitura dessa obra utilizando uma “tinta” preparada com
+extrato de repolho roxo. Esse extrato fica rosa em valores de
+pH menores que 5 e azul em valores próximos a 8, conforme
+figura a seguir, que mostra a cor da solução em diferentes
+valores de pH. 
+{imagem}
+Com base no exposto, qual das alternativas apresenta
+compostos ou produtos que poderiam ser usados para
+preparar uma “tinta” rosa/vermelha e uma azul/verde
+empregando o extrato de repolho roxo?
