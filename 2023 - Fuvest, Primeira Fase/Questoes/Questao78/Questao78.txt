@@ -1,4 +1,4 @@
-Questão 78: (arrumar)
+Questão 78: 
 O telescópio espacial James Webb, lançado em dezembro de
 2021, move-se nas proximidades de um ponto especial
 chamado ponto de Lagrange, sobre o qual um objeto orbita o
@@ -8,8 +8,13 @@ telescópio Webb, com as respectivas massas e distâncias
 indicadas. 
 {imagem}
 A força resultante necessária para manter um objeto de
-massa 𝑚 em uma órbita circular de raio 𝑅 com velocidade
-angular 𝜔 é 𝐹 = 𝑚𝜔ଶ𝑅. Sendo 𝐹் e 𝐹ௐ as intensidades das
+massa m em uma órbita circular de raio R com velocidade
+angular 𝜔 é F = 𝑚𝜔²𝑅. Sendo Ft e Fw as intensidades das
 forças gravitacionais resultantes sobre a Terra e sobre o
 telescópio, respectivamente, assinale a alternativa que
-descreve a razão 𝐹ௐ/𝐹் entre essas forças.
+descreve a razão Fw/Ft entre essas forças.
+(A) (mW * RT) / (mT * RW)
+(B) ((mT + mS) * RW) / (mT * RT)
+(C) (mW * RW) / (mT * RT)
+(D) (mW * (RW - RT)) / (mT * RT)
+(E) (mT * (RW - RT)) / (mW * RT)
