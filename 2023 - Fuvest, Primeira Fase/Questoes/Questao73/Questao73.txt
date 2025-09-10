@@ -1,4 +1,4 @@
-Questão 73:  (Arrumar)
+Questão 73:
 A figura ilustra de maneira simplificada o fenômeno da
 dispersão da luz branca ao incidir sobre um prisma de vidro a
 partir do ar, mostrando apenas raios refratados
@@ -15,7 +15,7 @@ seguir:
 em que:
 • 𝑛𝑖,𝜆 é o índice de refração da luz de comprimento de
 onda 𝜆 no meio incidente,
-• 𝜃௜ é o ângulo que o raio incidente faz com a reta normal
+• 𝜃𝑖 é o ângulo que o raio incidente faz com a reta normal
 à interface,
 • 𝑛𝑟,𝜆 é o índice de refração da mesma luz no meio
 refratado e
@@ -24,8 +24,12 @@ refratado e
 O índice de refração do ar pode ser tomado como igual a 1
 para qualquer comprimento de onda. Com base nessas
 informações, a relação correta entre os índices de refração
-dos raios das cores 1 (𝑛ଵ), 2 (𝑛ଶ) e 3 (𝑛ଷ) no vidro é dada por:
-(A) 𝑛ଵ = 𝑛ଶ = 𝑛ଷ ൐ 1
-(B) 𝑛ଵ ൐ 𝑛ଶ ൐ 𝑛ଷ ൐ 1
-(C) 1<𝑛ଵ < 𝑛ଶ < 𝑛ଷ
-(D) 𝑛ଵ < 𝑛ଶ < 𝑛ଷ < 1
+dos raios das cores 1 (n1), 2 (n2) e 3 (n3) no vidro é dada por:
+(A) n1 = n2 = n3 > 1
+(B) n1 > n2 > n3 > 1
+(C) 1 < n1 < n2 < n3
+(D) n1 < n2 < n3 < 1
+(E) 1 > n1 > n2 > n3
+
+Note e adote:
+A função seno é crescente quando 𝜃 está entre 0 e 90 graus
