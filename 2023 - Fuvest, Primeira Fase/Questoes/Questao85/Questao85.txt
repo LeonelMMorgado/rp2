@@ -1,17 +1,20 @@
-Questão 85: (arrumar)
+Questão 85:
 A FIFA (Federação Internacional de Futebol) implementou, em
 2018, a versão mais recente do ranking das seleções. Suponha
-que as seleções A e B, com pontuações 𝑃஺ e 𝑃஻,
+que as seleções A e B, com pontuações Pa e Pb,
 respectivamente, disputarão uma final de Copa do Mundo.
 A pontuação atualizada da seleção A após a partida será dada
 por
-𝑃஺
-ᇱ = 𝑃஺ + 60(𝑉஺ − 𝐸஺),
+P'a = Pa + 60(Va - Ea),
 onde
-𝐸஺ = 10
-௉ಲି௉ಳ
-଺଴଴
-1 + 10
-௉ಲି௉ಳ
-଺଴଴
-e o valor de 𝑉஺ depende do resultado da partida de acordo
+{imagem}
+e o valor de 𝑉a depende do resultado da partida de acordo com a tabela:
+{imagem}
+Sabendo que Pa - Pb = 360, se a seleção A vencer a partida, sua pontuação 
+aumentará em
+(A) 6 pontos.
+(B) 10 pontos.
+(C) 12 pontos.
+(D) 15 pontos.
+(E) 20 pontos.
+Note e adote: log de 2 na base 10 = 0,3
