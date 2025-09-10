@@ -1,11 +1,11 @@
-Questão 71: (Arrumar)
+Questão 71:
 Uma das apostas para a produção de energia limpa, sem
 emissão de gases de efeito estufa e sem geração de resíduos
 radioativos, é a fusão nuclear, como a que ocorre nas estrelas.
 Em laboratório, são utilizados os isótopos de hidrogênio
-deutério (ଵ𝐻ଶ ) e trítio (ଵ𝐻ଷ ), que, dentro de um intenso campo
+deutério (hidrogênio-2 (H-2)) e trítio (hidrogênio-3 (H-3)), que, dentro de um intenso campo
 magnético, são aquecidos a 150 milhões de graus Celsius.
-Nessas condições, ଵ𝐻ଶ e ଵ𝐻ଷ fundem-se formando ଶ𝐻𝑒 ସ e um
+Nessas condições, hidrogênio-2 (H-2) e hidrogênio-3 (H-3) fundem-se formando Hélio-4 e um
 outro subproduto, além de liberar uma grande quantidade de
 energia.
 Com base nessas informações, assinale a alternativa que traz
