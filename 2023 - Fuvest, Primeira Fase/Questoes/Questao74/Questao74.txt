@@ -1,4 +1,4 @@
-Questão 74: (Arrumar)
+Questão 74:
 A obra “Rosa e Azul”, também conhecida como “As Meninas
 Cahen d’Anvers”, é uma pintura a óleo de Pierre-Auguste
 Renoir. 
@@ -14,3 +14,8 @@ Com base no exposto, qual das alternativas apresenta
 compostos ou produtos que poderiam ser usados para
 preparar uma “tinta” rosa/vermelha e uma azul/verde
 empregando o extrato de repolho roxo?
+(A) Rosa/Vermelha: Açúcar - Azul/Verde: Sal de cozinha
+(B) Rosa/Vermelha: Sal de cozinha - Azul/Verde: Bicarbonato de Sódio
+(C) Rosa/Vermelha: Bicarbonato de sódio - Azul/Verde: Vinagre
+(D) Rosa/Vermelha: Açúcar - Azul/Verde: Soda cáustica
+(E) Rosa/Vermelha: Suco de limão - Azul/Verde: Bicarbonato de sódio
