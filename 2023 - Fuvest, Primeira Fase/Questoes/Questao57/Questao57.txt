@@ -1,10 +1,10 @@
-Questão 57: (ARRUMAR)
+Questão 57:
 O carbono 14, um isótopo radioativo com meia-vida de 5700
 anos, é gerado de forma constante na atmosfera a partir da
-interação de nêutrons com o nitrogênio atmosférico. Esse 14C
-reage com o O2 e produz 14CO2. Em função de seu decaimento
+interação de nêutrons com o nitrogênio atmosférico. Esse ¹⁴C
+reage com o O2 e produz ¹⁴CO2. Em função de seu decaimento
 e de suas taxas de deposição e formação, a proporção de
-14CO2 e de 12CO2 na atmosfera é razoavelmente constante ao
+¹⁴CO2 e de ¹²CO2 na atmosfera é razoavelmente constante ao
 longo da história geológica da Terra. Esses gases são
 absorvidos por produtores primários pela fotossíntese, e os
 isótopos de C são transferidos aos organismos heterotróficos
@@ -14,15 +14,15 @@ de anos, quantidades significativas de CO2 têm sido lançadas
 na atmosfera, aumentando a concentração desse gás.
 Com base no exposto, o CO2 emitido a partir da queima de
 combustíveis fósseis
-(A) mantém constante a proporção 12C/14C na atmosfera em
+(A) mantém constante a proporção ¹²C/¹⁴C na atmosfera em
 relação à encontrada no período pré-industrial.
-(B) apresenta maior concentração de 14CO2 em relação à
+(B) apresenta maior concentração de ¹⁴CO2 em relação à
 concentração de CO2 atmosférico encontrado no período
 pré-industrial.
-(C) contém quantidades iguais de 14C e 12C, dado que as taxas
+(C) contém quantidades iguais de ¹⁴C e ¹²C, dado que as taxas
 de formação e deposição de ambos são as mesmas.
-(D) aumenta a proporção 12C/14C na atmosfera em relação à
+(D) aumenta a proporção ¹²C/¹⁴C na atmosfera em relação à
 encontrada no período pré-industrial.
-(E) contém apenas 14CO2, que é o real causador do
+(E) contém apenas ¹⁴CO2, que é o real causador do
 aquecimento global por ser um gás de efeito estufa mais
-eficiente que o 12CO2.
+eficiente que o ¹²CO2.
