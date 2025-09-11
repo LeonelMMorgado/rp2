@@ -1,0 +1,30 @@
+Questão 70:
+
+Observe o mapa da distribuição da pesca no globo em 
+toneladas por quilômetro quadrado, por ano.
+
+{imagem}
+
+Baseado em seus conhecimentos sobre correntes marítimas 
+quentes e frias em superfície, bem como nos dados 
+representados no mapa, assinale a alternativa correta. 
+(A) No Hemisfério Sul, as regiões de maior potencial de pesca 
+são aquelas que margeiam a costa leste dos continentes 
+americano, africano e asiático, marcadas pela presença de 
+correntes marítimas quentes. 
+(B) No Hemisfério Norte, as regiões de maior potencial de 
+pesca são registradas na costa leste e oeste do continente 
+americano, margeadas pelas correntes marítimas frias do 
+Labrador e do Golfo, respectivamente. 
+(C) Em todo o globo, as áreas que demarcam as águas 
+internacionais ou alto-mar são as mais piscosas 
+independentemente da presença de correntes marítimas 
+quentes ou frias.  
+(D) No Hemisfério Sul, as regiões de maior potencial de pesca 
+ocorrem na costa oeste do continente americano e do 
+continente africano, com a presença, respectivamente, 
+das correntes marítimas de Humboldt e de Benguela. 
+(E) As regiões polares apresentam potencial reduzido de 
+pesca em função das dificuldades de acesso, baixa 
+reprodução das espécies nesses locais e presença de 
+correntes marítimas frias.

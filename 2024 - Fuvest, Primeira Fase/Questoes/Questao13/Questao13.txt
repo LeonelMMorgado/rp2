@@ -1,0 +1,46 @@
+Questão 13:
+
+(Arrumar)
+
+Matrizes podem ser usadas para se obter informações sobre 
+uma rede social. Para compreender como isso pode ser feito, 
+consideremos como exemplo uma pequena rede social 
+formada por 4 pessoas: 𝑃,𝑃,𝑃,𝑃. A matriz associada a essa 
+rede social é a matriz 4×4:
+
+{imagem}
+
+O valor 1 (um) na posição 𝑎 (linha 3, coluna 2) da matriz 
+significa que a pessoa 𝑃 segue a pessoa 𝑃, ao passo que o 
+valor 0 (zero) na posição 𝑎 (linha 2, coluna 4) significa que a 
+pessoa 𝑃 não segue a pessoa 𝑃. O valor 0 (zero) será 
+atribuído às posições 𝑎 . O significado do valor da posição 
+ 
+ 
+ Na série ficcional Wandinha, o poder da visão é transmitido entre 
+as bruxas, conforme o modelo genealógico hipotético a seguir: 
+ da matriz produto 𝑀×𝑀=𝑀 é a quantidade de 
+conexões da pessoa 𝑃 até a pessoa 𝑃 passando exatamente 
+por uma pessoa, diferente delas duas, que chamaremos de 
+conexão de grau 2. 
+Dessa forma, os valores das posições da matriz 𝑀 podem 
+refletir o alcance da rede social, suas potencialidades e 
+fraquezas, a influência de certos membros dela, dentre outros 
+aspectos. 
+Com relação à rede social apresentada, é correto afirmar que: 
+(A) Existem 5 pares de pessoas diferentes (𝑃≠𝑃) que não 
+possuem conexões de grau 2. 
+(B) Existem 6 pares de pessoas diferentes (𝑃≠𝑃) que 
+possuem apenas uma conexão de grau 2. 
+(C) Existem 3 pares de pessoas diferentes (𝑃≠𝑃) que 
+possuem 2 conexões de grau 2 diferentes. 
+(D) Existem 3 pessoas que possuem conexões de grau 2 com 
+todas as outras pessoas da rede social. 
+(E) Existe apenas 1 pessoa 𝑃 (𝑖 ≠ 3) tal que 𝑃 e 𝑃 seguem-se 
+mutuamente.
+
+Note e adote: 
+A posição 𝑏
+ da matriz produto 𝑀×𝑀=𝑀 é dada pela expressão  
+ 
+  =𝑎 𝑎 +𝑎 𝑎 +𝑎 𝑎 +𝑎 𝑎

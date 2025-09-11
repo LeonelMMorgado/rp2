@@ -1,0 +1,23 @@
+Questão 21:
+
+Um estudante (FV), intrigado com a escala de pH entre 0 e 14, 
+perguntou a um sistema de inteligência artificial (IA) sobre a 
+possibilidade de existirem valores negativos de pH, conforme 
+descrito na figura:
+
+{imagem}
+
+A resposta fornecida pelo sistema de inteligência artificial está 
+(A) errada, pois pH negativo refere-se à concentração de H+ 
+maior que 1 mol/L, resultando em um valor de pH menor 
+que zero. 
+(B) correta, pois pH negativo refere-se à concentração de OH− 
+maior que 1 mol/L, resultando em um valor de pH menor 
+que zero. 
+(C) correta, assim como é possível existir pH maior que 14 em 
+soluções com concentração de H+ maior que 14 mol/L. 
+(D) errada, pois a escala de pH é fixa entre 0 e 14, 
+independentemente da concentração de H+. 
+(E) correta, pois o pH tende a diminuir e tornar-se negativo 
+em soluções com concentração de íons H+ extremamente 
+baixa.

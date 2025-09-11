@@ -1,0 +1,13 @@
+Questão 60:
+
+(Arrumar)
+
+Considere o sistema linear 𝑥+2𝑦=4
+ 3𝑥 −𝑦 =5 . Assinale a 
+alternativa que representa graficamente esse sistema. 
+
+(A) {imagem}
+(B) {imagem}
+(C) {imagem}
+(D) {imagem}
+(E) {imagem}

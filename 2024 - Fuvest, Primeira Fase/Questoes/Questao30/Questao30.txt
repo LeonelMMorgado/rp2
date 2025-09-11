@@ -1,0 +1,26 @@
+Questão 30:
+
+Para gerar hidrogênio, foi utilizado o aparato ilustrado na 
+figura. 
+
+{imagem}
+
+Ao frasco à esquerda adicionou-se uma quantidade pré
+determinada de raspas de zinco metálico e ácido clorídrico. 
+Em seguida, o frasco foi fechado com uma rolha conectada a 
+uma tubulação. À medida que o hidrogênio é produzido pela 
+reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula 
+em uma proveta previamente cheia de água. Dado que a 
+solubilidade do hidrogênio na água é desprezível, o volume 
+ocupado pelo gás na proveta corresponde ao volume de 
+hidrogênio produzido durante a reação. 
+Considerando que, nas condições do experimento, foram 
+gerados 49,8 mL de hidrogênio, qual a quantidade de Zn 
+metálico, em gramas, que de fato reagiu? 
+(A) 0,07 
+(B) 0,13 
+(C) 0,26 
+(D) 0,29 
+(E) 0,48
+
+{imagem}

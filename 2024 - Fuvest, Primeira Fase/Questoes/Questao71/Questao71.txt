@@ -1,0 +1,21 @@
+Questão 71:
+
+Para esfriar um copo contendo 250 mL de água fervente 
+(100°C), é comum utilizar o seguinte método: 
+
+{imagem}
+
+Passo 1. Colocar esse copo 
+dentro de uma vasilha em 
+contato com 1 litro de água à 
+temperatura ambiente (25°C), 
+como mostrado na figura. 
+Passo 2. Esperar que entrem 
+em equilíbrio térmico. 
+Passo 3. Tirar o copo e trocar a água da vasilha por outro litro 
+de água à temperatura ambiente. 
+Passo 4. Colocar o copo em contato com a água “nova” e 
+esperar que entrem em equilíbrio térmico. 
+
+Após o passo (4) desse método, a temperatura da água no 
+copo será aproximadamente:

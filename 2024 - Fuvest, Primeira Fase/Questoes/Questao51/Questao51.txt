@@ -1,0 +1,17 @@
+Questão 51:
+
+Uma das modalidades de skate é o bowl, disputado em um 
+espaço em formato aproximado de bacia. Supondo um bowl 
+com profundidade de 2,45 m, qual a máxima velocidade que 
+um skatista, partindo do repouso no ponto mais alto da bacia, 
+poderia alcançar no ponto mais baixo? 
+
+{imagem}
+
+(A) 3 m/s
+(B) 5 m/s 
+(C) 7 m/s 
+(D) 9 m/s 
+(E) 11 m/s
+
+{imagem}

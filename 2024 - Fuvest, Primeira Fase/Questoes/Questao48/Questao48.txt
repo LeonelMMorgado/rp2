@@ -1,0 +1,20 @@
+Questão 48:
+
+Uma empresa de alimentos utiliza embalagens, no formato de 
+paralelepípedo reto-retângulo, de dimensões 2 cm x 3 cm x 
+11 cm, para armazenar biscoitos. Para o transporte desse 
+produto, são utilizadas caixas para acondicionar essas 
+embalagens, também no formato de paralelepípedo reto
+retângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a 
+seguir ilustra um paralelepípedo reto-retângulo.
+
+{imagem}
+
+Determine o número máximo de embalagens que podem ser 
+acondicionadas em cada caixa fechada para transporte, sem 
+que o produto seja danificado. 
+(A) 48 
+(B) 52 
+(C) 56 
+(D) 60 
+(E) 61

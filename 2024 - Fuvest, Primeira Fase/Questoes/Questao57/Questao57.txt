@@ -1,0 +1,19 @@
+Questão 57:
+
+A foto a seguir mostra um circuito com três resistores (𝑅, 𝑅 
+e 𝑅) conectados em uma protoboard (base de contatos). 
+Nesse tipo de placa, os cinco furos de uma mesma linha 
+(indicados pelos retângulos amarelos) estão em curto, 
+formando os nós do circuito. Os cabos vermelho e preto, por 
+sua vez, estão conectados aos terminais de uma fonte 
+contínua de 5V.
+
+{imagem}
+
+Se 𝑅 = 150 kΩ e 𝑅 = 𝑅 = 100 kΩ, a corrente elétrica que 
+passa pelo resistor 𝑅 será de: 
+(A) 12,5 μA 
+(B) 14,3 μA 
+(C) 25,0 μA 
+(D) 37,5 μA 
+(E) 50,0 μA

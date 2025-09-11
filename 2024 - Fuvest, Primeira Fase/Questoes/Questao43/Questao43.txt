@@ -1,0 +1,32 @@
+Questão 43:
+
+{imagem}
+
+O gráfico apresentado mostra as concentrações atmosféricas 
+dos principais gases de efeito estufa até o ano 2000, sendo 
+eles: CO2, quantificado em partes por milhão (ppm), N2O e 
+CH4, ambos quantificados em partes por bilhão (ppb). Em 
+junho de 2022, a Administração Nacional Oceânica e 
+Atmosférica (NOAA) reportou que, naquela data, os níveis de 
+CO2 na atmosfera encontravam-se em torno de 420 ppm. Esse 
+valor é muito superior à concentração média de 
+aproximadamente 280 ppm, existente antes da Revolução 
+Industrial. Com base nessas informações e em seus 
+conhecimentos, é correto afirmar: 
+(A) Apesar do grande aumento nas quantidades dos três 
+principais gases de efeito estufa a partir da Revolução 
+Industrial, seus níveis passaram a estabilizar por volta do 
+ano 2000. 
+(B) A mecanização resultante da Revolução Industrial, iniciada 
+no século XVIII, causou grandes mudanças nos meios de 
+produção, com a utilização de energias renováveis. 
+(C) O plantio de árvores em grande escala acentua o 
+aquecimento global, devido à liberação de gases do efeito 
+estufa na atmosfera. 
+(D) O aquecimento global é um fenômeno recente, já que a 
+Terra teve um clima com temperaturas constantes 
+durante sua existência. 
+(E) O efeito estufa é um fenômeno intensificado a partir da 
+Revolução Industrial, devido às atividades humanas 
+emissoras de CO2, que contribuem para o aquecimento 
+global.

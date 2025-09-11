@@ -1,0 +1,54 @@
+Questão 41:
+
+As moléculas de água podem conter o isótopo estável mais 
+abundante de oxigênio, 16O, ou o isótopo estável menos 
+abundante, 18O.  
+Essa pequena diferença de massa entre as moléculas de água 
+é suficiente para alterar a sua pressão de vapor. Por esse 
+motivo, a análise de isótopos de oxigênio na água da chuva 
+possibilita a identificação de períodos secos e de períodos 
+chuvosos. 
+A figura ilustra a mudança na constituição isotópica da água 
+da chuva ao longo do tempo como resultado da diferença na 
+pressão de vapor.
+
+{imagem}
+
+(Arrumar)
+
+Com base nessas informações, assinale a alternativa correta. 
+Considere os textos a seguir sobre o campo magnético 
+terrestre, essencial para a manutenção da vida no planeta: 
+“O campo magnético é o resultado do movimento do ferro 
+líquido que envolve o núcleo interno do planeta, formado de 
+ferro sólido. Ao girar a uma velocidade maior que aquela da 
+superfície, o ferro líquido produz um campo magnético com 
+dois polos magnéticos opostos, próximos aos polos Norte e 
+Sul geográficos.”(1) 
+“O campo magnético do planeta, porém, não é estável e vem 
+enfraquecendo continuamente desde pelo menos 1832, 
+quando o físico e matemático alemão Carl Friedrich Gauss 
+aferiu pela primeira vez sua intensidade. De lá para cá, 
+medições mais frequentes e precisas confirmam que a 
+intensidade diminui à taxa de 17 nanoteslas (nT) por ano – o 
+campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do 
+hemisfério Sul que vai da África à América do Sul.”(2) 
+(A) Em períodos de alta pluviosidade, as primeiras 
+precipitações da nuvem são isotopicamente mais leves e a 
+nuvem de chuva se enriquece, relativamente, em 18O. 
+(B) Em períodos de baixa pluviosidade, a constituição 
+isotópica das nuvens pouco se altera ao longo do tempo, 
+e 
+a 
+pouca chuva dessas nuvens é relativamente 
+enriquecida em 18O. 
+(C) No período atual, em função do aquecimento global, as 
+temperaturas elevadas fazem com que o fracionamento 
+isotópico de 16O e 18O resultante da evaporação e da 
+precipitação da água não ocorra. 
+(D) Em períodos glaciais, em função da maior temperatura do 
+planeta, as chuvas são enriquecidas em 18O, enquanto, nos 
+oceanos, a água é enriquecida em 16O. 
+(E) Em períodos interglaciais, em função da menor 
+temperatura do planeta, as chuvas são enriquecidas em 
+16O, enquanto, nos oceanos, a água é enriquecida em 18O.

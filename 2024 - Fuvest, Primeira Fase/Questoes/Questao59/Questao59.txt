@@ -1,0 +1,13 @@
+Questão 59:
+
+(Arrumar)
+
+Considere a função 𝑓, dada por 𝑓(𝑥) = 𝑏 , com 𝑏>0,𝑏≠1 
+e 𝑥∈ℝ, e a sua inversa 𝑓 . A figura destaca dois pontos, um 
+pertencente ao gráfico de 𝑓 e outro ao gráfico de 𝑓 . 
+Determine 𝑏+ 𝑘.
+
+(A)   
+(B) 1 
+(C)   
+(D)

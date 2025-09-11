@@ -1,0 +1,32 @@
+Questão 84:
+
+O Atlas da Violência, publicado em 2019 e organizado pelo 
+Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro 
+de Segurança Pública, apresenta um estudo para melhor 
+compreender a violência no país. Os dados que ali constam 
+referem-se ao período de 2007 a 2017. Um dos capítulos 
+desse documento trata, especificamente, da violência contra 
+a mulher. O gráfico a seguir mostra a evolução da taxa de 
+homicídios de mulheres (equivalente ao número de 
+homicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e 
+nas três unidades federativas com as menores taxas em 2017. 
+
+{imagem}
+
+De acordo com os dados apresentados, é correto afirmar: 
+(A) Dentre as unidades federativas citadas, a que teve maior 
+decréscimo na taxa de homicídios de mulheres no período 
+entre 2014 e 2017 foi São Paulo. 
+(B) As três unidades federativas indicadas tiveram um 
+decréscimo na taxa de homicídios de mulheres em 2017 
+quando comparada com a taxa de 2007. 
+(C) A taxa de homicídios de mulheres no Brasil em 2017 é 
+maior que a soma das taxas das três unidades federativas 
+apresentadas neste mesmo ano. 
+(D) Dentre as unidades federativas apontadas, a que 
+apresentou a maior taxa de homicídios de mulheres em 
+2017 é Santa Catarina, superando a taxa registrada nos 
+demais estados da região Sul. 
+(E) Dentre as unidades federativas mencionadas, a maior 
+redução na taxa de homicídios de mulheres, entre 2016 e 
+2017, registrada na pesquisa ocorreu no Distrito Federal.

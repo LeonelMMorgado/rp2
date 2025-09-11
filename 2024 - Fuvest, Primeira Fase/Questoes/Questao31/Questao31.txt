@@ -1,0 +1,23 @@
+Questão 31:
+
+(Arrumar)
+
+O reservatório de um caminhão-pipa tem a forma de um 
+cilindro circular reto com eixo horizontal e dimensões internas 
+de 6 metros de comprimento e 2 metros de diâmetro. Uma 
+escola contratou o serviço do caminhão-pipa para abastecer 
+sua caixa d’água. Após o abastecimento, o motorista 
+percebeu que o reservatório do caminhão estava cheio até 
+3/4 de sua altura, conforme ilustrado na figura. 
+
+{imagem}
+
+Qual foi o volume, em metros cúbicos, de água utilizada para 
+abastecer a caixa d’água da escola, sabendo que o 
+reservatório do caminhão estava cheio antes do 
+abastecimento? 
+(A) (2 π - √ ) 
+(B) (2 π - √ ) 
+(C) (2 π + √ ) 
+(D) (4 π + √ ) 
+(E) (4 π + √ )

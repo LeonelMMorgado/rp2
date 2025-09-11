@@ -1,0 +1,39 @@
+Questão 42:
+
+Considere os textos a seguir sobre o campo magnético 
+terrestre, essencial para a manutenção da vida no planeta: 
+“O campo magnético é o resultado do movimento do ferro 
+líquido que envolve o núcleo interno do planeta, formado de 
+ferro sólido. Ao girar a uma velocidade maior que aquela da 
+superfície, o ferro líquido produz um campo magnético com 
+dois polos magnéticos opostos, próximos aos polos Norte e 
+Sul geográficos.”(1) 
+“O campo magnético do planeta, porém, não é estável e vem 
+enfraquecendo continuamente desde pelo menos 1832, 
+quando o físico e matemático alemão Carl Friedrich Gauss 
+aferiu pela primeira vez sua intensidade. De lá para cá, 
+medições mais frequentes e precisas confirmam que a 
+intensidade diminui à taxa de 17 nanoteslas (nT) por ano – o 
+campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do 
+hemisfério Sul que vai da África à América do Sul.”(2)
+
+{imagem}
+
+Fontes: 
+(1) O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado. 
+(2) Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista 
+Pesquisa FAPESP, maio de 2021. 
+Com base nos textos e na figura apresentados e nos seus 
+conhecimentos, é correto afirmar que: 
+(A) A variação da intensidade do campo magnético terrestre 
+ao longo da linha do Equador é menor do que 10−6 T. 
+(B) O campo magnético terrestre é constante em módulo ao 
+longo do meridiano de Greenwich. 
+(C) O campo magnético terrestre é uniforme e esférico, tal 
+como o campo gerado por um dipolo magnético. 
+(D) Embora atualmente o campo magnético terrestre tenha 
+intensidade maior nas regiões dos polos, esta é 
+consideravelmente menor na região do Brasil e adjacências. 
+(E) A geração do campo magnético é naturalmente explicada 
+por uma distribuição estática de cargas no núcleo interno 
+do planeta.

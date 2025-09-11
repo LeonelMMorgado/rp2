@@ -1,0 +1,26 @@
+Questão 26:
+
+(Arrumar)
+
+Nas embalagens de lâmpadas de LED atuais, está indicada 
+uma “temperatura de cor” (expressa na escala Kelvin), que 
+corresponde à tonalidade da luz emitida pela lâmpada. A 
+“temperatura de cor” não indica a temperatura de operação 
+da lâmpada, servindo apenas como uma referência da cor 
+predominante da radiação eletromagnética termicamente 
+emitida por um corpo a essa dada temperatura. 
+A densidade () de energia eletromagnética irradiada é 
+função do comprimento de onda  da luz emitida. As curvas 
+presentes nos gráficos das alternativas mostram () dividida 
+pelo seu valor máximo (𝜆 á ). O máximo de cada curva 
+corresponde ao comprimento de onda 𝜆 á  predominante da 
+luz irradiada. 
+Com base nessas informações, assinale a alternativa que 
+apresenta o gráfico que melhor corresponde à situação em 
+que a cor predominante da luz irradiada seja amarela.
+
+(A) {imagem}
+(B) {imagem}
+(C) {imagem}
+(D) {imagem}
+(E) {imagem}
