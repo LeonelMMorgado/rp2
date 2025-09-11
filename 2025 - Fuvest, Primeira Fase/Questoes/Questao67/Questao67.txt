@@ -1,0 +1,18 @@
+Questão 67:
+
+Pesquisas e terapias com células-tronco têm se mostrado cada
+vez mais promissoras pela possibilidade de seu uso no
+tratamento de diferentes tipos de doenças, como câncer e
+doenças degenerativas. As células-tronco podem se diferenciar
+em células especializadas, conforme exemplificado a seguir.
+
+{imagem}
+
+As células especializadas que derivam de uma mesma célula-
+tronco possuem os(as) mesmos(as)
+
+(A) genes.
+(B) RNAs.
+(C) proteínas.
+(D) lipídeos.
+(E) organelas.

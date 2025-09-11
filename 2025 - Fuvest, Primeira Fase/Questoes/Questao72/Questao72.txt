@@ -1,0 +1,20 @@
+Questão 72:
+
+A reação do antibiótico sulfanilamida com halogênios leva à
+reação de substituição com o halogênio em duas posições
+distintas do anel aromático, como representado na equação
+não balanceada a seguir.
+
+{imagem}
+
+Em um experimento, 1 L de uma solução de sulfanilamida de
+pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação
+total. Considerando que o volume se manteve inalterado após
+a adição do halogênio, quantos mols de sulfanilamida
+reagiram com bromo?
+
+(A) 4,5 × 10^-5
+(B) 9,0 × 10^-5
+(C) 1,0 × 10^-4
+(D) 5,0 × 10^-2
+(E) 1,0 × 10^-1

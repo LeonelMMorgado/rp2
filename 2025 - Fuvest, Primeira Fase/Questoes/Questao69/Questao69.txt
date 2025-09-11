@@ -1,0 +1,10 @@
+Questão 69:
+
+No plano cartesiano 𝑂𝑥𝑦, o gráfico que melhor representa a
+função 𝑓(𝑥) = |𝑥^2 + 5𝑥 - 6| - 5𝑥 + 6 é dado por
+
+(A) {imagem}
+(B) {imagem}
+(C) {imagem}
+(D) {imagem}
+(E) {imagem}

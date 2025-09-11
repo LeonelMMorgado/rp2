@@ -1,0 +1,27 @@
+Questão 59:
+
+Quando uma barra de um certo material é aquecida até
+uma temperatura 𝑇 a partir de uma temperatura inicial 𝑇_0 ,
+seu comprimento inicial 𝐿_0 sofre um aumento Δ𝐿 dado por
+Δ𝐿 = 𝛼 * 𝐿_0 * (𝑇 - 𝑇_0) , sendo 𝛼 o coeficiente de expansão
+linear, que depende do material. O gráfico a seguir mostra
+curvas de expansão linear para barras feitas de três
+materiais distintos.
+
+{imagem}
+
+Com base no gráfico e nas informações apresentadas, é
+correto afirmar:
+
+(A) O gráfico mostra curvas para três barras que possuem o
+mesmo comprimento à temperatura de 30°C.
+(B) Em um processo de aquecimento entre 100°C e 200°C, o
+comprimento da barra de cobre aumenta em 0,1 m.
+(C) O coeficiente de expansão linear do alumínio é maior do
+que o do cobre.
+(D) Partindo de 0°C, aumentar em 10 cm o comprimento da
+barra de polietileno requer elevar sua temperatura até
+50°C.
+(E) Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do
+mesmo material, sofrem iguais incrementos de
+comprimento quando levadas de 0°C a 100°C.

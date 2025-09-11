@@ -1,0 +1,24 @@
+Questão 48:
+
+Os gráficos a seguir apresentam a evolução do abate de
+bovinos e da participação de machos e fêmeas, por trimestre
+(indicado por algarismo romano), segundo informações
+obtidas pelo IBGE.
+
+{imagem}
+
+IBGE: Diretoria de Pesquisas. Coordenação de Estatísticas Agropecuárias.
+Pesquisa Trimestral do Abate de Animais 2019-2024 (Adaptado).
+A partir dos dados observados nos gráficos, é correto afirmar:
+
+(A) No primeiro trimestre de 2023, a diferença entre as
+quantidades de machos e fêmeas abatidos foi menor que
+a do primeiro trimestre de 2019.
+(B) No primeiro trimestre de 2023, a quantidade de fêmeas
+abatidas foi de, aproximadamente, 2 milhões.
+(C) No primeiro trimestre de 2021 e de 2022, a diferença entre
+as quantidades de machos e fêmeas abatidos foi igual.
+(D) No primeiro trimestre de 2024, a quantidade de fêmeas
+abatidas foi de, aproximadamente, 4,3 milhões.
+(E) No primeiro trimestre de 2024, a quantidade de fêmeas
+abatidas foi igual à do primeiro trimestre de 2019.

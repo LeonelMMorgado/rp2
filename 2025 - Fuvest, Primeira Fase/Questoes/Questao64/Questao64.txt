@@ -1,0 +1,22 @@
+Questão 64:
+
+Alguns motores de foguetes espaciais usam metano como
+combustível e oxigênio como comburente. Ambos os
+compostos são armazenados em estado líquido no próprio
+foguete, o que permite o seu armazenamento em maior
+quantidade do que se estivessem no estado gasoso. Sabe-se
+que o foguete armazena um volume de oxigênio líquido
+1,5 vez maior do que de metano líquido e que ambos são
+completamente consumidos na combustão, conforme a
+equação CH4(l) + 2 O2(l) → CO2(g) + 2 H2O(g).
+Nessas condições, é correto afirmar que a razão entre a
+densidade do metano líquido e a densidade do oxigênio
+líquido é igual a
+
+(A) 0,186.
+(B) 0,375.
+(C) 0,75.
+(D) 1,5.
+(E) 3.
+
+{imagem}

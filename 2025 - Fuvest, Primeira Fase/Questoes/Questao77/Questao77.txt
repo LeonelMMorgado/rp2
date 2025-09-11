@@ -1,0 +1,15 @@
+Questão 77:
+
+Em relação ao plano cartesiano Oxy, é correto afirmar que as
+equações 𝑥^2 + 𝑦^2 - 4𝑥 = -3 e 𝑥^2 + 𝑦^2 - 4𝑦 = -3 representam
+
+(A) duas circunferências com raios de mesma medida e que se
+interceptam em dois pontos.
+(B) duas circunferências com raios de medidas diferentes e
+que se interceptam em dois pontos.
+(C) duas circunferências que se interceptam em um único
+ponto.
+(D) duas circunferências concêntricas e que não se
+interceptam.
+(E) duas circunferências com centros distintos e que não se
+interceptam.

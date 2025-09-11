@@ -1,0 +1,20 @@
+Questão 32:
+
+O fenômeno físico conhecido como iridescência ocorre nas
+asas de certas espécies de borboletas e caracteriza-se pela
+variação das cores de acordo com o ângulo de observação. A
+existência de faixas coloridas na superfície das asas das
+borboletas ocorre devido a diferentes formas de superposição
+entre raios luminosos refletidos por uma fina camada de
+substância transparente existente na superfície das asas.
+
+{imagem}
+
+Os fenômenos físicos diretamente relacionados com a
+iridescência são
+
+(A) dilatação e reflexão.
+(B) interferência e dilatação.
+(C) dissipação e difração.
+(D) convecção e dispersão.
+(E) reflexão e interferência.

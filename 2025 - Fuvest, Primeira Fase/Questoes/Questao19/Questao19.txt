@@ -1,0 +1,34 @@
+Questão 19:
+
+O efeito Compton, descoberto na década de 1920, é hoje
+amplamente utilizado durante tratamentos radioterápicos. O
+efeito relaciona-se à mudança no comprimento de onda de
+fótons de raios X quando interagem com partículas como
+elétrons ou prótons, conforme ilustrado na figura a seguir.
+
+{imagem}
+
+Quando um fóton com comprimento de onda 𝜆_0 incide sobre
+uma partícula, ele emerge dessa interação formando um
+ângulo 𝜃 com sua direção inicial de movimento, e seu novo
+comprimento de onda 𝜆′ é dado pela relação
+
+{imagem}
+
+em que 𝛼 é uma constante positiva e 𝑚 é a massa da partícula.
+Com base nessas informações e em seus conhecimentos
+sobre a propagação das ondas eletromagnéticas, assinale a
+alternativa correta.
+
+(A) A maior variação no comprimento de onda do fóton ocorre
+quando o ângulo 𝜃 é igual a 90°.
+(B) Se o ângulo 𝜃 é igual a 30°, o fóton emergente tem
+frequência menor do que a frequência inicial.
+(C) Quando 𝜃 = 0, a velocidade do fóton emergente é menor
+do que a do fóton incidente, devido à conservação da
+quantidade de movimento.
+(D) Se o ângulo 𝜃 é igual a 60°, a variação no comprimento de
+onda do fóton é menor se a partícula for um elétron do
+que se a partícula for um próton.
+(E) Um fóton que emergiu perpendicularmente à sua direção
+inicial não sofreu mudança em sua frequência.

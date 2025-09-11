@@ -1,0 +1,21 @@
+Questão 07:
+
+{imagem}
+
+Falácias são argumentos que podem até parecer à primeira
+vista bem construídos logicamente, mas são falhos, seja em
+termos do uso da linguagem, de pertinência temática ou de
+correção formal. Os primeiros estudos sistemáticos das
+falácias foram feitos pelo filósofo Aristóteles, que classificou
+alguns dos argumentos falaciosos mais comuns.
+
+No terceiro quadrinho da história, uma personagem se serve
+de um argumento falacioso bastante conhecido a fim de
+persuadir o outro. Esse argumento pode ser classificado como
+um caso de qual tipo de falácia?
+
+(A) Ataque à pessoa.
+(B) Apelo à piedade.
+(C) Apelo à força.
+(D) Ambiguidade.
+(E) Apelo à ignorância.

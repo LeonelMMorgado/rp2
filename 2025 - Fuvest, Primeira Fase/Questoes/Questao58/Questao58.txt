@@ -1,0 +1,26 @@
+Questão 58:
+
+A toxicidade do Pb e o risco de sua ingestão ganharam
+notoriedade na mídia devido à presença desse elemento em
+copos térmicos amplamente comercializados. A exposição ao
+Pb, no entanto, pode ocorrer também por fontes naturais,
+como a ingestão de água em contato prolongado com
+minérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10ꟷ8).
+
+Sabendo que a legislação estabelece a concentração máxima
+de Pb de 0,01 mg/L para água potável, assinale a alternativa
+correta em relação à ingestão de água que tenha contato
+prolongado com a anglesita.
+
+Note e adote: Massa molar (g/mol): Pb = 207
+
+(A) Não é segura, pois a concentração de Pb na água será de
+2,07×10^1 mg/L, maior que o valor permitido.
+(B) É segura, pois a concentração de Pb na água será de
+1×10^4 mg/L, menor que o valor permitido.
+(C) Não é segura, pois a concentração de Pb na água será de
+1×10^8 mg/L, menor que o valor permitido.
+(D) É segura, pois a concentração de Pb na água será de
+1×10^2 mg/L, igual ao valor permitido.
+(E) É segura, pois a concentração de Pb na água será de
+2,07×10^6 mg/L, maior que o valor permitido.

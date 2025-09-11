@@ -1,0 +1,45 @@
+Questão 66:
+
+Da moenda para a célula a combustível: caldo de cana é
+usado para produzir energia elétrica
+“Pesquisadores do Instituto de Pesquisas Energéticas e
+Nucleares (Ipen), órgão associado à USP, testaram o uso de
+caldo de cana para gerar energia elétrica em células a
+combustível. O processo dispensa a transformação do caldo in
+natura em etanol, feita nas usinas de álcool, impedindo a
+formação de resíduos nocivos ao meio ambiente. Após o êxito
+dos experimentos em laboratório, os cientistas vão
+desenvolver a aplicação da técnica em escala industrial.
+‘A célula a combustível tem o mesmo princípio de
+funcionamento de uma pilha. A diferença é que o combustível
+serve como reagente para ser consumido e gerar
+eletricidade’, explica o pesquisador do Ipen, Almir Oliveira
+Neto, que coordenou a pesquisa. ‘No dispositivo que foi
+desenvolvido na pesquisa, a oxidação do caldo de cana
+acontece no ânodo e a redução de oxigênio no cátodo. O
+objetivo do experimento era obter energia da biomassa com
+o mínimo impacto ambiental possível. Para isso, utilizou-se o
+caldo de cana em uma célula a combustível para gerar energia
+elétrica’, diz o pesquisador. ‘O uso do caldo de cana direto
+evita a formação de vinhaça, um resíduo ambientalmente
+perigoso decorrente da produção de etanol, contribuindo,
+assim, para a preservação do meio ambiente’.”
+Disponível em https://jornal.usp.br/ciencias/ (Adaptado).
+
+Ao empregar o pronome se em “utilizou-se o caldo de cana
+em uma célula a combustível para gerar energia elétrica”, o
+pesquisador
+
+(A) indetermina o sujeito, tentando mostrar que desconhece
+a real autoria do experimento.
+(B) valoriza o objeto “caldo de cana”, enfatizando a
+importância desse produto para o experimento.
+(C) chama a atenção para o verbo transitivo “utilizar”,
+valorizando a importância de se experimentar
+diretamente o caldo de cana.
+(D) faz uso da voz passiva, construção em que “caldo de cana”
+atua como sujeito, deixando de haver menção a quem
+realizou o experimento.
+(E) escolhe uma construção reflexiva em que “caldo de cana”
+é, ao mesmo tempo, o agente e o objeto do experimento
+realizado.

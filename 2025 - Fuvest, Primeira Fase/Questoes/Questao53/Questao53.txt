@@ -1,0 +1,24 @@
+Questão 53:
+
+A Estação Meteorológica Mirante de Santana é a principal
+referência do Instituto Nacional de Meteorologia (INMET) no
+município de São Paulo - SP. O climograma a seguir apresenta
+dados referentes ao mês de fevereiro de 2023. Neste mesmo
+mês, o Centro de Gerenciamento de Emergências Climáticas
+detectou 11 pontos de alagamentos no dia 19 e 14 pontos no
+dia 21.
+
+{imagem}
+
+Com base no texto e no gráfico, assinale a alternativa correta.
+
+(A) A menor amplitude térmica ocorreu no dia 19, quando foi
+observado um dos maiores volumes de chuva do mês.
+(B) Os quatro dias mais chuvosos apresentaram as menores
+temperaturas mínimas.
+(C) A temperatura máxima no período variou entre 21,5 °C e
+17,8 °C.
+(D) Os cinco dias mais quentes correspondem às maiores
+precipitações.
+(E) Os pontos de alagamento nos dias 19 e 21 foram
+provocados pela chuva acumulada de 428,9 mm.

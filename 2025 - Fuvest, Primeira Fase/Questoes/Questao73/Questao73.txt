@@ -1,0 +1,42 @@
+Questão 73:
+
+{imagem}
+
+Um artigo publicado em 2018, na Revista Brasileira de Ensino
+de Física, reporta um curioso estudo sobre a pressão interna
+de “foguetes de garrafa PET”, propulsionados a partir da
+reação química entre ácido acético e bicarbonato de sódio.[1]
+Uma mistura de vinagre (que contém ácido
+acético, CH3COOH) com bicarbonato de sódio (NaHCO3)
+produz gás carbônico (CO2) por meio da reação química
+representada pela seguinte equação:
+CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O
+A reação ocorre no interior de uma
+garrafa PET de 2 L de volume útil total,
+da qual foi retirado todo o ar. Insere-se
+na garrafa um volume inicial Vvin de
+vinagre líquido e bicarbonato de sódio,
+sendo a garrafa posteriormente selada
+com uma tampa acoplada a um
+manômetro. A reação produzirá gás
+carbônico que ocupará um volume VCO2
+e exercerá uma pressão PCO2 sobre a
+tampa da garrafa, medida pelo
+manômetro, como mostra a figura.
+[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504
+(2018). Disponível em
+http://dx.doi.org/10.1590/1806-9126-RBEF-
+2017-0340.
+
+Suponha que a reação produza 2 mols de CO2 para cada 3
+litros de vinagre. Nas condições do experimento, em que o
+volume de líquido é 1/3 de litro à temperatura T = 300 K, a
+pressão PCO2 medida pelo manômetro será por volta de
+
+(A) 3,2 atm.
+(B) 4,1 atm.
+(C) 6,2 atm.
+(D) 9,0 atm.
+(E) 12 atm.
+
+{imagem}

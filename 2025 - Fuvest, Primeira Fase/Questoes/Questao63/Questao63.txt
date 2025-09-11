@@ -1,0 +1,30 @@
+Questão 63:
+
+A utilização de matrizes energéticas limpas, tais como aquelas
+que não aumentam a concentração de CO2(g) na atmosfera, é
+essencial para evitar a escalada das alterações climáticas
+causadas pela emissão de gases de efeito estufa. Considere a
+proposta apresentada na figura a seguir para a produção de
+uma matriz energética limpa.
+
+{imagem}
+
+(I) Capturar o CO2(g) atmosférico utilizando NaOH(aq) para formar
+Na2CO3(aq). (II) Tratar essa solução, na presença de um catalisador,
+com H2(g) oriundo de fontes renováveis, para gerar CH4(g), um gás
+combustível.
+Com base nessas informações e em seus conhecimentos,
+assinale a alternativa correta.
+
+(A) O catalisador participa da reação de produção de metano
+e se decompõe em NaOH.
+(B) A combustão do CH4 não emite CO2, motivo pelo qual a
+proposta se configura como uma matriz energética limpa.
+(C) A proposta não representa uma matriz energética limpa,
+pois a combustão completa de 1 mol de CH4 emite mais
+CO2 do que o que é utilizado para a sua síntese.
+(D) A retirada de CO2 da atmosfera seria maior se a proposta
+de usar uma matriz energética limpa se resumisse
+unicamente em utilizar o H2 como combustível.
+(E) Em relação ao ciclo do carbono, a proposta é semelhante
+ao uso do etanol como combustível veicular.

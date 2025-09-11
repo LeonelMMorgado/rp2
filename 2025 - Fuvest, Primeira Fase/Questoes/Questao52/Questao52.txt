@@ -1,0 +1,30 @@
+Questão 52:
+
+As enchentes ocorridas no Rio Grande do Sul, em maio de
+2024, prejudicaram a infraestrutura de comunicação. A
+população afetada era informada sobre as notícias relativas às
+enchentes ao sintonizar, por rádio de pilhas, frequências de
+onda AM, cujo alcance é maior.
+Uma onda AM é modelada matematicamente por equações
+que envolvem a função cosseno, cuja variável independente é
+o tempo t, que aparece multiplicado pela frequência f da
+onda.
+Como exemplo, pode-se considerar a equação referente ao
+processo de modulação de uma onda AM:
+
+s(t) = A*[1+k*m(t)]*cos(2*𝜋*f*t),
+
+em que 𝐴 é a amplitude, 𝑓 a frequência, 𝑘 a constante da
+sensibilidade à amplitude e 𝑚 𝑡 o sinal que contém a
+informação.
+
+Quando a frequência f é multiplicada por 3, o comprimento
+da onda sofre alteração. Por causa dessa multiplicação, qual
+transformação ocorre no gráfico da função cosseno original?
+
+(A) Expansão vertical.
+(B) Translação horizontal.
+Com base no texto e no gráfico, assinale a alternativa correta.
+(C) Expansão horizontal.
+(D) Contração horizontal.
+(E) Contração vertical.

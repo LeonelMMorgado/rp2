@@ -1,0 +1,27 @@
+Questão 62:
+
+Um brinquedo bastante comum em parques de diversões, a
+montanha-russa, utiliza-se da transformação parcial de
+energia potencial em energia cinética (e vice-versa) como
+princípio de funcionamento. Uma das montanhas-russas mais
+famosas do mundo, a Takabisha, cuja pista possui mais de
+1 km de extensão, localiza-se no Japão e tem vista para o
+Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado
+a uma altura aproximada de 50 m do solo, é feita sob ângulo
+de aproximadamente 90 graus, seguida de uma descida
+vertiginosa, cuja velocidade, no ponto mais baixo desse
+trecho, atinge cerca de 30 m/s em poucos segundos.
+
+{imagem}
+
+Considerando um carrinho ocupado com massa total de 300 kg
+em repouso na posição de altura máxima, a energia mecânica
+perdida durante a descida inicial é, aproximadamente,
+
+(A) 1200 J.
+(B) 2500 J.
+(C) 5000 J.
+(D) 15000 J.
+(E) 20000 J.
+
+{imagem}

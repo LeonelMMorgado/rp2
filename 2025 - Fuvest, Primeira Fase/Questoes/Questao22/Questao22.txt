@@ -1,0 +1,31 @@
+Questão 22: (arrumar)
+
+{imagem}
+
+Uma das possíveis tecnologias para a produção de telas
+sensíveis ao toque aproveita a reflexão interna total da luz.
+Esse tipo de reflexão ocorre quando um raio luminoso viaja do
+interior de um meio 1, com índice de refração 𝑛 , em direção
+a um meio 2, com índice de refração 𝑛 , formando com a
+direção perpendicular à interface entre os meios um ângulo 𝜃
+maior do que um certo valor limite 𝜃L , tal que sen 𝜃L = 𝑛 /𝑛 .
+
+Quando um objeto (como um dedo) se aproxima da interface
+entre os meios, a reflexão total não ocorre, o que é captado
+por sensores, revelando a posição do objeto. Suponha que se
+deseje projetar uma tela sensível ao toque que, conforme
+mostra a figura, funcione com uma fonte luminosa 𝐹 fixa na
+borda. A tabela a seguir indica os índices de refração de alguns
+materiais candidatos à utilização no meio 1.
+
+{imagem}
+
+Tratando o meio 2 sempre como tendo índice de refração
+𝑛 = 1,0003, o material que permite o maior intervalo de
+ângulos de incidência que produzem reflexão total é:
+
+(A) Material A.
+(B) Material B.
+(C) Material C.
+(D) Material D.
+(E) Material E.

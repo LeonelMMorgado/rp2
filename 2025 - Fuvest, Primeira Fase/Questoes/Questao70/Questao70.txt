@@ -1,0 +1,27 @@
+Questão 70:
+
+Seja (𝑎_n) uma progressão aritmética cujo primeiro termo é 𝑎_1
+e a razão 𝑟, ambos números reais. É possível construir uma
+outra sequência (𝑏_n), em que o primeiro termo é um número
+real 𝑏_1 e com a seguinte lei de formação
+
+𝑏_(n+1) = b_n + a_n,
+
+sendo 𝑛 > 0 um número natural.
+Por exemplo, se 𝑏_1 = 0 e
+
+(𝑎_n) = (1,3,5,7,9,11,…),
+
+tem-se
+
+(𝑏_n) = (0,1,4,9,16,25,…).
+
+Com base em tais informações, os valores de 𝑎_1 e 𝑟 foram
+escolhidos de forma que (𝑏_n) também seja uma progressão
+aritmética de razão 𝑟′. Nessas condições, é correto afirmar:
+
+(A) 𝑟′ = 𝑎_1
+(B) 𝑟′ = 2𝑎_1
+(C) 𝑟′ = 𝑟
+(D) 𝑟′ = 2𝑟
+(E) 𝑟′ = 𝑏_1 - 𝑎_1

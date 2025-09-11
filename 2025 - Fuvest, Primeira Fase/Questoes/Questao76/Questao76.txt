@@ -1,0 +1,15 @@
+Questão 76:
+
+Considere um cilindro 𝐶 de altura ℎ 0 e cujo raio das
+circunferências, do topo e da base, é 𝑟 0; um cilindro 𝐶
+cujo raio é igual ao de 𝐶 e altura igual a ; e um cilindro 𝐶
+com altura ℎ e raio igual a .
+
+Sendo 𝑉, 𝑉_1 e 𝑉_2 os volumes e 𝐴, 𝐴_1 e 𝐴_2 as áreas laterais dos
+cilindros 𝐶, 𝐶_1 e 𝐶_2 , respectivamente, é correto afirmar:
+
+(A) 𝑉 = 𝑉_1 + 𝑉_2 e 𝐴 = 𝐴_1 + 𝐴_2
+(B) 𝑉 = 𝑉_1 + 𝑉_2 e 𝐴 = 𝐴_1 + 2𝐴_2
+(C) 𝑉 = 𝑉_1 + 2𝑉_2 e 𝐴 = 𝐴_1 + 2𝐴_2
+(D) 𝑉 = 𝑉_1 + 2𝑉_2 e 𝐴 = 𝐴_1 + 𝐴_2
+(E) 𝑉 = 2𝑉_1 + 2𝑉_2 e 𝐴 = 2𝐴_1 + 2𝐴_2

@@ -1,0 +1,23 @@
+Questão 31:
+
+Alguns corais contêm, em sua estrutura, algas fornecedoras
+de carboidratos que auxiliam no crescimento e na construção
+do esqueleto do coral. Os corais, por sua vez, fornecem um
+ambiente de proteção e importantes nutrientes às algas. As
+mudanças climáticas globais têm provocado a morte dessas
+algas e, em muitos casos, a morte dos corais.
+
+Assinale a alternativa que representa a relação ecológica
+entre os corais e as algas, assim como o impacto imediato
+causado pela morte dos corais.
+
+(A) Relação ecológica: Predação. Impacto imediato: formação de marés
+vermelhas e desoxigenação das águas oceâncias.
+(B) Relação ecológica: Mutualismo. Impacto imediato: perda de habitat para
+diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.
+(C) Relação ecológica: Colônia. Impacto imediato: Aumento de habitats e nichos
+ecológicos para espécies que passam a viver no local antes ocupado pelos corais.
+(D) Relação ecológica: Competição. Impacto imediato: Invasão biológica por espécies
+que ocupam o nicho deixado vago pelos corais.
+(E) Relação ecológica: Comensalismo. Impacto imediato: Enriquecimento das águas
+oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas.

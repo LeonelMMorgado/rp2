@@ -1,0 +1,26 @@
+Questão 51:
+
+A figura a seguir representa a variação espacial da
+temperatura do ar por tipo de área, considerando diferentes
+padrões de uso e ocupação do solo de um município.
+
+{imagem}
+
+A explicação para as características desse perfil de
+temperatura do ar deve-se
+
+(A) à maior ocorrência de áreas verdes nas periferias, que
+absorvem mais radiação solar e aquecem o ambiente,
+ultrapassando os 32 °C.
+(B) à maior absorção de radiação solar nas áreas centrais das
+cidades, compostas em sua maioria por asfalto, vidro e
+concreto.
+(C) ao efeito de sombreamento dos edifícios nas áreas
+centrais, com maior disponibilidade de radiação solar e
+temperaturas inferiores a 30 °C.
+(D) à presença de áreas comerciais e residenciais ao longo de
+todo perfil, que elevam a temperatura acima dos 32 °C e
+reduzem a umidade.
+(E) à maior reflexão da radiação solar nas áreas centrais pelo
+asfalto, por apresentarem albedo menor que as
+superfícies vegetadas.

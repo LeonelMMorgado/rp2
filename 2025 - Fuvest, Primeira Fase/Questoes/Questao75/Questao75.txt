@@ -1,0 +1,18 @@
+Questão 75:
+
+Um designer de produtos deseja fabricar um vaso para flores
+conforme a figura a seguir.
+
+{imagem}
+
+Sabe-se que a base e o topo do vaso são uma circunferência
+de raio 𝑅 que mede 10 cm, a parte central é uma
+circunferência de raio 𝑟 de 5 cm e a medida ℎ mede 12 cm.
+
+Qual é a capacidade volumétrica desse vaso em cm3?
+
+(A) 1400𝜋
+(B) 2100𝜋
+(C) 2400𝜋
+(D) 2600𝜋
+(E) 2800𝜋

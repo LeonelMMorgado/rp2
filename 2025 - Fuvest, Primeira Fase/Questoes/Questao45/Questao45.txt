@@ -1,0 +1,27 @@
+Questão 45:
+
+Considere que a expectativa de vida no Brasil à idade de 19
+anos pode ser calculada, de forma aproximada, como a média
+aritmética simples entre a expectativa de vida estimada à
+mesma idade dos homens e das mulheres. O mesmo pode ser
+feito à idade de 20 anos.
+
+Segundo dados do IBGE, em 2022, a expectativa de vida
+estimada no Brasil à idade de 19 anos era 58, e a expectativa
+de vida estimada dos homens à mesma idade era 54,7.
+
+Sabe-se que a diferença entre a expectativa de vida estimada
+dos homens e a das mulheres se manteve à idade de 20 anos
+e que a expectativa de vida estimada dos homens a essa idade
+(EVH20) era 53,8.
+
+Com base nos dados apresentados, assinale a alternativa que
+apresenta a expectativa de vida estimada das mulheres à
+idade de 19 anos (EVM19) e a expectativa de vida estimada à
+idade de 20 anos no Brasil (EVB20) em 2022.
+
+(A) EVM_19: 54,7 | EVB_20: 54,7
+(B) EVM_19: 54,7 | EVB_20: 58
+(C) EVM_19: 60   | EVB_20: 54
+(D) EVM_19: 61,3 | EVB_20: 56
+(E) EVM_19: 61,3 | EVB_20: 57,1

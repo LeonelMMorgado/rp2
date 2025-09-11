@@ -1,0 +1,23 @@
+Questão 61:
+
+Os versos a seguir pertencem à canção Fall on Me, da banda
+norte-americana R.E.M., lançada em 1986.
+
+“There's a problem, feathers, iron
+Bargain buildings, weights and pulleys
+Feathers hit the ground before the weight can leave the air”
+Bill Berry, Peter Buck, Mike Mills e Michael Stipe.
+
+A qual episódio (real ou hipotético) da história da física o
+trecho da música faz alusão?
+
+(A) À queda de uma maçã, que teria inspirado Newton à
+descoberta da gravitação universal.
+(B) À observação de um pássaro em voo, que teria levado
+Einstein a formular a teoria da relatividade.
+(C) Aos experimentos com objetos de massas diferentes, que
+teriam indicado a Galileu os princípios da queda livre.
+(D) Ao transbordamento da água em uma banheira, que teria
+sugerido a Arquimedes o conceito de empuxo.
+(E) À queda de um bloco de ferro ligado a uma hélice, que
+teria levado Joule à equivalência entre calor e energia.

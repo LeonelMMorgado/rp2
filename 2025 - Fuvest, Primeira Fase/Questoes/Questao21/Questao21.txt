@@ -1,0 +1,31 @@
+Questão 21:
+
+Baterias íon-lítio (íon-Li) armazenam energia por meio de um
+processo de intercalação iônica, no qual íons Li+ penetram e
+se acomodam entre camadas de grafite no ânodo da bateria.
+A quantidade de energia armazenada é diretamente
+proporcional ao número de íons Li+ intercalados no ânodo,
+que, entre outros aspectos, é limitado pelo espaço disponível
+para a sua alocação. Uma recente inovação tecnológica em
+baterias é a substituição de Li por Na, formando baterias íon-
+sódio (íon-Na). O mecanismo de funcionamento se baseia no
+processo de intercalação, com a vantagem de que o Na é mais
+abundante do que o Li no planeta.
+Considerando que a única diferença entre baterias de mesma
+massa e volume seja o íon utilizado (Na+ ou Li+) e que a
+densidade de energia é a quantidade de energia armazenada
+na bateria por unidade de massa e volume, é correto afirmar
+que a densidade de energia de uma bateria íon-Na é
+
+{imagem}
+
+(A) maior do que de uma bateria íon-Li, pois o Na+ tem maior
+massa e menor raio iônico do que o Li+.
+(B) menor do que de uma bateria íon-Li, pois o Na+ tem maior
+massa e maior raio iônico do que o Li+.
+(C) maior do que de uma bateria íon-Li, pois o Na+ tem menor
+massa e maior raio iônico do que o Li+.
+(D) menor do que de uma bateria íon-Li, pois o Na+ tem menor
+massa e menor raio iônico do que o Li+.
+(E) igual à de uma bateria íon-Li, pois ambos os íons são
+monovalentes.

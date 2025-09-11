@@ -1,0 +1,49 @@
+Questão 74:
+
+{imagem}
+
+Um artigo publicado em 2018, na Revista Brasileira de Ensino
+de Física, reporta um curioso estudo sobre a pressão interna
+de “foguetes de garrafa PET”, propulsionados a partir da
+reação química entre ácido acético e bicarbonato de sódio.[1]
+Uma mistura de vinagre (que contém ácido
+acético, CH3COOH) com bicarbonato de sódio (NaHCO3)
+produz gás carbônico (CO2) por meio da reação química
+representada pela seguinte equação:
+CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O
+A reação ocorre no interior de uma
+garrafa PET de 2 L de volume útil total,
+da qual foi retirado todo o ar. Insere-se
+na garrafa um volume inicial Vvin de
+vinagre líquido e bicarbonato de sódio,
+sendo a garrafa posteriormente selada
+com uma tampa acoplada a um
+manômetro. A reação produzirá gás
+carbônico que ocupará um volume VCO2
+e exercerá uma pressão PCO2 sobre a
+tampa da garrafa, medida pelo
+manômetro, como mostra a figura.
+[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504
+(2018). Disponível em
+http://dx.doi.org/10.1590/1806-9126-RBEF-
+2017-0340.
+
+Considere agora um outro experimento feito em condições
+semelhantes, em que o manômetro indica uma pressão de
+5 atm e, sem que a pressão no interior da garrafa se altere, ele
+é cuidadosamente substituído por uma rolha de 10 g de massa
+e 2 cm de diâmetro (igual ao diâmetro interno do bocal da
+garrafa). Logo após a rolha ser encaixada no local, ela é
+expelida devido à pressão interna da garrafa ser maior que a
+pressão atmosférica.
+
+A aceleração da rolha no momento em que ela é expelida é
+de, aproximadamente,
+
+(A) 12 m/s^2.
+(B) 120 m/s^2.
+(C) 1200 m/s^2.
+(D) 12000 m/s^2.
+(E) 120000 m/s^2.
+
+{imagem}

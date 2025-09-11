@@ -1,0 +1,21 @@
+Questão 49:
+
+Observe as imagens de satélite que indicam o desmatamento
+de 12.272 hectares no município de Formosa do Rio Preto
+(BA), região do MATOPIBA, composta pelos estados do
+Maranhão, Tocantins, Piauí e Bahia, no período 2019-2022.
+
+{imagem}
+
+
+Com base na análise temporal das imagens, assinale a
+alternativa que apresenta, respectivamente, o bioma
+correspondente à região do MATOPIBA, a atividade
+econômica desenvolvida nesse local e o possível impacto
+ambiental negativo decorrente de tal atividade.
+
+(A) Cerrado, agropecuária e processos erosivos.
+(B) Cerrado, silvicultura e contaminação do solo.
+(C) Amazônia, mineração e poluição das águas.
+(D) Caatinga, pastagem e impermeabilização da superfície.
+(E) Caatinga, extrativismo e perda de biodiversidade.

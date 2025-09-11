@@ -1,0 +1,19 @@
+Questão 24:
+
+Na zona sul da cidade de São Paulo, há uma esquina formada
+pelas ruas Cloreto de Sódio e Relíquia do Oceano.
+
+{imagem}
+
+A coincidência do encontro dessas ruas chama a atenção, pois
+o cloreto de sódio
+
+(A) praticamente não está presente no oceano, apesar de este
+ser salgado.
+(B) é insolúvel na água do oceano por apresentar ligação
+iônica.
+(C) utilizado no Brasil é quase todo proveniente do oceano.
+(D) obtido do oceano apresenta ligação covalente, enquanto
+o extraído do sal-gema, ligação iônica.
+(E) retirado do oceano tem mais átomos de cloro ligados ao
+sódio do que o oriundo de outras fontes.
