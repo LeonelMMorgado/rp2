@@ -3,17 +3,28 @@ import base64
 from dotenv import load_dotenv
 from openai import OpenAI
 
+# grok
+# https://platform.openai.com/docs/guides/images-vision?api-mode=responses&format=base64-encoded#analyze-images
+# gemini
+# https://ai.google.dev/gemini-api/docs/image-understanding?hl=pt-br
+
 # --- Carrega a chave do .env ---
 load_dotenv()
 gpt_key = os.getenv("OPENAI_API_KEY")
 deepseek_key = os.getenv("DEEPSEEK_API_KEY")
+xai_api_key = os.getenv("XAI_API_KEY")
+gemini_api_key = os.getenv("GEMINI_API_KEY")
 
 gpt_client = OpenAI(api_key=gpt_key)
 deepseek_client = OpenAI(api_key=deepseek_key, base_url="https://api.deepseek.com")
+xai_client = OpenAI(api_key=xai_api_key, base_url="https://api.x.ai/v1")
+gemini_client= OpenAI(api_key=gemini_api_key, base_url="https://generativelanguage.googleapis.com/v1beta/openai/")
 
 clients = {
     "GPT": gpt_client,
-    "DEEPSEEK": deepseek_client
+    "DEEPSEEK": deepseek_client,
+    "XAI": xai_client,
+    "GEMINI": gemini_client,
 }
 
 def encode_image(image_path):
@@ -27,6 +38,8 @@ for ai in clients:
     model = ""
     if ai == "GPT": model = 'gpt-4.1-mini'
     elif ai == "DEEPSEEK": model = 'deepseek-reasoner'
+    elif ai == "XAI": model = 'grok-4'
+    elif ai == "GEMINI": model = 'gemini-2.5-flash'
     
     for fuvest_ano in os.listdir(dir_base):
         ano_path = os.path.join(dir_base, fuvest_ano)
@@ -64,6 +77,9 @@ for ai in clients:
             if not content_blocks:
                 print(f"⚠️ Questao{num} está vazia, pulando...")
                 continue
+
+            #o chatgpt só aceita client.responses.create()
+            #os outros aceitam client.chat.completions.create()
 
             try:
                 response = clients[ai].responses.create(
