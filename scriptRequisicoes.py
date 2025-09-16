@@ -3,10 +3,14 @@ import base64
 from dotenv import load_dotenv
 from openai import OpenAI
 
+# gpt
+# https://platform.openai.com/docs
 # grok
-# https://platform.openai.com/docs/guides/images-vision?api-mode=responses&format=base64-encoded#analyze-images
+# https://docs.x.ai/docs
 # gemini
-# https://ai.google.dev/gemini-api/docs/image-understanding?hl=pt-br
+# https://ai.google.dev/gemini-api/docs
+# deepseek
+# https://deepwiki.com/deepseek-ai/DeepSeek-Coder-V2/1-overview
 
 # --- Carrega a chave do .env ---
 load_dotenv()
@@ -32,9 +36,9 @@ def encode_image(image_path):
     with open(image_path, "rb") as f:
         return base64.b64encode(f.read()).decode("utf-8")
 
-dir_base = '.'
 
 for ai in clients:
+    dir_base = '.'
     model = ""
     if ai == "GPT": model = 'gpt-4.1-mini'
     elif ai == "DEEPSEEK": model = 'deepseek-reasoner'
@@ -82,12 +86,22 @@ for ai in clients:
             #os outros aceitam client.chat.completions.create()
 
             try:
-                response = clients[ai].responses.create(
-                    model=model,
-                    input=[{"role": "user", "content": content_blocks}]
-                )
+                reply = ""
+                if ai == "GPT":
+                    response = clients[ai].responses.create(
+                        model=model,
+                        input=[{"role": "user", "content": content_blocks}]
+                    )
 
-                reply = response.output_text or ""
+                    reply = response.output_text or ""
+                else:
+                    response = clients[ai].chat.completions.create(
+                        model=model,
+                        messages=[
+                            {"role": "user", "content": content_blocks}
+                        ]
+                    )
+                    reply = response.choices[0].message.content
                 with open(out_path, "w", encoding="utf-8") as f:
                     f.write(reply)
 
