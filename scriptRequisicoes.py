@@ -2,31 +2,32 @@ import os
 import base64
 from dotenv import load_dotenv
 from openai import OpenAI
+import anthropic
 
 # gpt
 # https://platform.openai.com/docs
+# claude
+# https://docs.claude.com/en/docs/get-started#python
 # grok
 # https://docs.x.ai/docs
 # gemini
 # https://ai.google.dev/gemini-api/docs
-# deepseek
-# https://deepwiki.com/deepseek-ai/DeepSeek-Coder-V2/1-overview
 
 # --- Carrega a chave do .env ---
 load_dotenv()
 gpt_key = os.getenv("OPENAI_API_KEY")
-deepseek_key = os.getenv("DEEPSEEK_API_KEY")
-xai_api_key = os.getenv("XAI_API_KEY")
-gemini_api_key = os.getenv("GEMINI_API_KEY")
+claude_key = os.getenv("CLAUDE_API_KEY")
+xai_key = os.getenv("XAI_API_KEY")
+gemini_key = os.getenv("GEMINI_API_KEY")
 
 gpt_client = OpenAI(api_key=gpt_key)
-deepseek_client = OpenAI(api_key=deepseek_key, base_url="https://api.deepseek.com")
-xai_client = OpenAI(api_key=xai_api_key, base_url="https://api.x.ai/v1")
-gemini_client= OpenAI(api_key=gemini_api_key, base_url="https://generativelanguage.googleapis.com/v1beta/openai/")
+xai_client = OpenAI(api_key=xai_key, base_url="https://api.x.ai/v1")
+gemini_client = OpenAI(api_key=gemini_key, base_url="https://generativelanguage.googleapis.com/v1beta/openai/")
+claude_client = anthropic.Anthropic()
 
 clients = {
     "GPT": gpt_client,
-    "DEEPSEEK": deepseek_client,
+    "CLAUDE": claude_client,
     "XAI": xai_client,
     "GEMINI": gemini_client,
 }
@@ -41,7 +42,7 @@ for ai in clients:
     dir_base = '.'
     model = ""
     if ai == "GPT": model = 'gpt-4.1-mini'
-    elif ai == "DEEPSEEK": model = 'deepseek-reasoner'
+    elif ai == "CLAUDE": model = 'claude-sonnet-4-20250514'
     elif ai == "XAI": model = 'grok-4'
     elif ai == "GEMINI": model = 'gemini-2.5-flash'
     
@@ -87,7 +88,15 @@ for ai in clients:
 
             try:
                 reply = ""
-                if ai == "GPT":
+                if ai == "CLAUDE":
+                    response = clients[ai].messages.create(
+                        model=model,
+                        messages=[
+                            {"role": "user", "content": content_blocks}
+                        ]
+                    )
+                    reply = response.content
+                elif ai == "GPT":
                     response = clients[ai].responses.create(
                         model=model,
                         input=[{"role": "user", "content": content_blocks}]
