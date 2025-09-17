@@ -64,18 +64,36 @@ for ai in clients:
 
             for chunk in quest_cont.split("{imagem}"):
                 if chunk.strip():
-                    content_blocks.append({"type": "input_text", "text": chunk})
+                    if ai == "GPT":
+                        content_blocks.append({"type": "input_text", "text": chunk})
+                    else:
+                        content_blocks.append({"type": "text", "text": chunk})
 
                 img_path = os.path.join(questao_path, f"Questao{num}-{img_index}.png")
                 if not os.path.exists(img_path) and img_index == 1:
                     img_path = os.path.join(questao_path, f"Questao{num}.png")
 
                 if os.path.exists(img_path):
-                    img_b64 = encode_image(img_path)
-                    content_blocks.append({
-                        "type": "input_file",
-                        "image_url": f"data:image/png;base64,{img_b64}"
-                    })
+                    img_cont = encode_image(img_path)
+                    if ai == "CLAUDE":
+                        content_blocks.append({
+                            "type": "image",
+                            "source": {
+                                "type": "base64",
+                                "media_type": "image/png",
+                                "data": img_cont
+                            }
+                        })
+                    elif ai == "GPT":
+                        content_blocks.append({
+                            "type": "input_image",
+                            "image_url": f"data:image/png;base64,{img_cont}"
+                        })
+                    else:
+                        content_blocks.append({
+                            "type": "image_url",
+                            "image_url": f"data:image/png;base64,{img_cont}"
+                        })
 
                 img_index += 1
 
@@ -91,17 +109,17 @@ for ai in clients:
                 if ai == "CLAUDE":
                     response = clients[ai].messages.create(
                         model=model,
+                        #max_tokens=1000,
                         messages=[
                             {"role": "user", "content": content_blocks}
                         ]
                     )
-                    reply = response.content
+                    reply = response.content or ""
                 elif ai == "GPT":
                     response = clients[ai].responses.create(
                         model=model,
                         input=[{"role": "user", "content": content_blocks}]
                     )
-
                     reply = response.output_text or ""
                 else:
                     response = clients[ai].chat.completions.create(
@@ -110,7 +128,7 @@ for ai in clients:
                             {"role": "user", "content": content_blocks}
                         ]
                     )
-                    reply = response.choices[0].message.content
+                    reply = response.choices[0].message.content or ""
                 with open(out_path, "w", encoding="utf-8") as f:
                     f.write(reply)
 
