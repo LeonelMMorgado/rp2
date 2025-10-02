@@ -16,8 +16,8 @@ Qual foi o volume, em metros cúbicos, de água utilizada para
 abastecer a caixa d’água da escola, sabendo que o 
 reservatório do caminhão estava cheio antes do 
 abastecimento? 
-(A) (2 π - √ ) 
-(B) (2 π - √ ) 
-(C) (2 π + √ ) 
-(D) (4 π + √ ) 
-(E) (4 π + √ )
+(A) (2 π - √3/4 ) 
+(B) (2 π - 3√3/2 ) 
+(C) (2 π + 3√3/2 ) 
+(D) (4 π + √3/4 ) 
+(E) (4 π + 3√3/2 )
