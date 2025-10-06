@@ -1,0 +1,40 @@
+Questão 13:
+
+Matrizes podem ser usadas para se obter informações sobre 
+uma rede social. Para compreender como isso pode ser feito, 
+consideremos como exemplo uma pequena rede social 
+formada por 4 pessoas: 𝑃1, 𝑃2, 𝑃3, 𝑃4. A matriz associada a essa 
+rede social é a matriz 4×4:
+
+{imagem}
+
+O valor 1 (um) na posição 𝑎32 (linha 3, coluna 2)  da matriz 
+significa que a pessoa 𝑃3 segue a pessoa 𝑃2, ao passo que o 
+valor 0 (zero) na posição 𝑎24 (linha 2, coluna 4) significa que a 
+pessoa 𝑃2 não segue a pessoa 𝑃4. O valor 0 (zero) será 
+atribuído às posições 𝑎ii (linha i, coluna i). O significado do valor da posição
+bmn (linha m, coluna n) da matriz produto 𝑀×𝑀=𝑀 é a quantidade de 
+conexões da pessoa 𝑃m até a pessoa 𝑃n passando exatamente 
+por uma pessoa, diferente delas duas, que chamaremos de 
+conexão de grau 2.
+Dessa forma, os valores das posições da matriz 𝑀 podem 
+refletir o alcance da rede social, suas potencialidades e 
+fraquezas, a influência de certos membros dela, dentre outros 
+aspectos. 
+Com relação à rede social apresentada, é correto afirmar que:
+
+Com relação à rede social apresentada, é correto afirmar que: 
+(A) Existem 5 pares de pessoas diferentes (𝑃i ≠ 𝑃j) que não 
+possuem conexões de grau 2. 
+(B) Existem 6 pares de pessoas diferentes (𝑃i ≠ 𝑃j) que 
+possuem apenas uma conexão de grau 2. 
+(C) Existem 3 pares de pessoas diferentes (𝑃i ≠ 𝑃j) que 
+possuem 2 conexões de grau 2 diferentes. 
+(D) Existem 3 pessoas que possuem conexões de grau 2 com 
+todas as outras pessoas da rede social. 
+(E) Existe apenas 1 pessoa 𝑃i (i ≠ 3) tal que 𝑃i e 𝑃3 seguem-se 
+mutuamente.
+
+Note e adote: 
+A posição bmn da matriz produto 𝑀×𝑀=𝑀^2 é dada pela expressão  
+bmn = 𝑎m1 𝑎1n + 𝑎m2 𝑎2m + 𝑎m3 𝑎3n + 𝑎m4 𝑎4n

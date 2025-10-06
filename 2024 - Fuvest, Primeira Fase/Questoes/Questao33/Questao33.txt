@@ -1,0 +1,24 @@
+Questão 33:
+
+Uma empresa farmacêutica produz certo medicamento, o 
+qual é formado por quatro componentes, conforme indicado 
+na tabela I. O custo do grama de cada um dos componentes 
+desse medicamento também é apresentado nessa tabela. 
+
+{imagem}
+
+Para a produção do próximo lote do medicamento, a empresa 
+terá um gasto diferente para fabricá-lo, pois os custos de 
+alguns componentes sofreram alterações, conforme mostra a 
+tabela II.
+
+{imagem}
+
+Qual é o aumento, em reais, no custo do medicamento?
+(A) 9,25
+(B) 12,00 
+(C) 12,75 
+(D) 36,00 
+(E) 86,00 
+
+{imagem}

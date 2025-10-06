@@ -1,0 +1,16 @@
+Questão 32:
+
+A tabela a seguir mostra a condição de duas variáveis sociais 
+em quatro cidades urbanas genéricas.
+
+{imagem}
+
+Com base nesses dados, é correto afirmar que a população 
+humana dessas cidades tem risco aumentado de ter as 
+respectivas doenças:
+
+(A) Cidade 1: leptospirose. Cidade 2: influenza. Cidade 3: amebíase. Cidade 4: cólera
+(B) Cidade 1: COVID. Cidade 2: teníase. Cidade 3: tétano. Cidade 4: tuberculose
+(C) Cidade 1: hepatite B. Cidade 2: amebíase. Cidade 3: cólera. Cidade 4: leptospirose
+(D) Cidade 1: influenza. Cidade 2: teníase. Cidade 3: pneumonia. Cidade 4: COVID
+(E) Cidade 1: tuberculose. Cidade 2: poliomielite. Cidade 3: hepatite B. Cidade 4: amebíase

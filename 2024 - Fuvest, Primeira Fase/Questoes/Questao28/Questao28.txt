@@ -1,0 +1,45 @@
+Questão 28:
+
+A temperatura ideal para uso de um forno a lenha para 
+preparo de pizzas pode ser inferida pela observação da 
+coloração das paredes internas do forno. Abaixo da 
+temperatura ideal, um material particulado preto proveniente 
+da queima da lenha pode ser visto recobrindo as paredes 
+internas. Quando a temperatura ideal é atingida, esse 
+material particulado não é mais observado e a superfície mais 
+clara do interior do forno pode ser vista, como apresentado 
+nas fotos.
+
+{imagem}
+
+A coloração da superfície interior do forno permite inferir a 
+temperatura ideal, pois 
+Nessa configuração, a temperatura na qual a tensão na corda 
+se anula é igual a 
+(A) 0°C 
+(B) 75°C 
+(C) 100°C 
+(D) 150°C 
+(E) 275°C 
+Note e adote: 
+Despreze a massa do fio. 
+(A) a fuligem advinda do processo de combustão incompleta 
+da lenha deposita-se nas paredes e, com o aumento da 
+temperatura, reage com o oxigênio do ar e produz gás 
+carbônico, permitindo ver a cor mais clara da parede 
+interna do forno.  
+(B) a coloração preta é originada pela fuligem da combustão 
+completa da lenha, o que causa o aumento da 
+temperatura até que a parede do forno se torne 
+incandescente, revelando sua cor mais clara. 
+(C) a coloração preta é observada por conta da baixa 
+quantidade de luz gerada pelas chamas da lenha em 
+combustão a baixas temperaturas e essa quantidade de 
+luz aumenta à medida que a temperatura se torna 
+elevada. 
+(D) o material particulado se funde, escorrendo pelas paredes 
+do forno quando a temperatura ideal é atingida, revelando 
+a coloração mais clara do interior do forno. 
+(E) a alta quantidade de gás carbônico produzida em baixas 
+temperaturas forma uma névoa que não permite a 
+passagem de luz, o que torna o interior escuro.

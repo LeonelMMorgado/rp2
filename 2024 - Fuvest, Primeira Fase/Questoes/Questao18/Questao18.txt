@@ -1,0 +1,14 @@
+Questão 18:
+
+Em 2023, a imprensa mundial anunciou a criação da 
+almôndega de carne de mamute. A ilustração a seguir resume 
+a biotecnologia envolvida nesse processo.
+
+{imagem}
+
+A almôndega de mamute possui células 
+(A) com mitocôndrias de elefante. 
+(B) musculares recriadas de mamute. 
+(C) que produzem gordura de mamute. 
+(D) com mais genes de ovelha que de mamute. 
+(E) de diferentes tecidos do elefante.

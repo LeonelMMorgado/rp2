@@ -1,0 +1,31 @@
+Questão 29:
+
+Fogareiros abastecidos com pequenos botijões de gás são 
+equipamentos corriqueiros em trilhas e escaladas de duração 
+prolongada para possibilitar o cozimento de alimentos. Em 
+geral, esses botijões são abastecidos com propano, isobutano 
+ou n-butano. A tabela mostra a temperatura de ebulição e o 
+calor liberado na combustão desses três gases, à pressão 
+atmosférica. 
+
+{imagem}
+
+Com base nessas informações, qual seria o gás mais indicado 
+para a utilização em um ambiente com temperatura típica de 
+−6 °C, considerando a viabilidade e o consumo de gás 
+necessário para o preparo de alimentos?
+(A) Propano, por estar líquido em −6 °C e, dentre as 
+substâncias líquidas nessa temperatura, sua combustão 
+fornecer mais calor por volume de gás. 
+(B) Isobutano, por estar gasoso em −6 °C e, dentre as 
+substâncias gasosas nessa temperatura, sua combustão 
+fornecer mais calor por volume de gás. 
+(C) n-Butano, por estar gasoso em −6 °C e, dentre as 
+substâncias gasosas nessa temperatura, sua combustão 
+fornecer mais calor por volume de gás. 
+(D) n-Butano, por estar líquido em −6 °C e, dentre as 
+substâncias gasosas nessa temperatura, sua combustão 
+fornecer menos calor por volume de gás. 
+(E) Isobutano, por estar gasoso em −6 °C e, dentre as 
+substâncias gasosas nessa temperatura, sua combustão 
+fornecer menos calor por volume de gás.

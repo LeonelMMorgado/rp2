@@ -1,0 +1,31 @@
+Questão 25:
+
+Quando uma solução de NaCl é colocada em contato com uma 
+chama, observa-se uma luz amarela (figura I). Quando esse 
+mesmo experimento é realizado na presença de uma lâmpada 
+de Na, a chama aparenta estar preta (figura II).
+
+{imagem}
+
+{imagem}
+
+Considerando que um material emite e absorve radiação em 
+um mesmo comprimento de onda, assinale a afirmação 
+correta sobre o experimento. 
+(A) Na figura (I), a chama é amarela devido à absorção de luz 
+pelos átomos de Na; enquanto, em (II), a chama está preta 
+porque o Na deixa de absorver quando a chama é irradiada 
+pela lâmpada de sódio. 
+(B) Na figura (I), a chama é amarela porque esta é a cor de 
+qualquer chama; enquanto, em (II), a chama está preta 
+porque o Na absorve a energia da chama.  
+(C) Na figura (I), a chama é amarela porque esta é a cor de 
+qualquer chama; enquanto, em (II), a chama está preta 
+devido à combustão incompleta.  
+(D) Na figura (I), a chama é amarela devido à emissão de luz 
+pelos átomos de Na; enquanto, em (II), a chama está preta 
+devido à combustão incompleta.  
+(E) Na figura (I), a chama é amarela devido à emissão de luz 
+pelos átomos de Na; enquanto, em (II), a chama está preta 
+porque os átomos de Na da chama absorvem a luz 
+proveniente da lâmpada de Na.

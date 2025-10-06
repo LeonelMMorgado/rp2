@@ -1,0 +1,20 @@
+Questão 35:
+
+Um relógio digital utiliza os seguintes numerais para 
+representar um determinado horário: 
+
+{imagem}
+
+Esse relógio está colocado sobre uma mesa de vidro, de forma 
+que o vidro reflete o horário em sua superfície. A figura 
+mostra um exemplo dessa situação: 
+
+{imagem}
+
+De 00:00 até as 23:59, quantas vezes o vidro refletirá um 
+horário válido? 
+(A) 96 
+(B) 360 
+(C) 540 
+(D) 640 
+(E) 960

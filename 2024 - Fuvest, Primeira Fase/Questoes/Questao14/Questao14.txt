@@ -1,0 +1,19 @@
+Questão 14:
+
+Na série ficcional Wandinha, o poder da visão é transmitido entre 
+as bruxas, conforme o modelo genealógico hipotético a seguir: 
+
+{imagem}
+
+Considerando a genealogia apresentada, o poder da visão tem 
+herança 
+(A) autossômica dominante, porque se apresenta somente 
+em mulheres. 
+(B) autossômica recessiva, sendo todos os homens 
+homozigóticos dominantes. 
+(C) ligada ao X recessiva, e os filhos homens inativam esse 
+cromossomo. 
+(D) ligada ao X recessiva, porque aparece em todas as 
+gerações. 
+(E) ligada ao X dominante, sendo letal para fetos masculinos 
+com o alelo dominante.

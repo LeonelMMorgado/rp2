@@ -1,0 +1,19 @@
+Questão 20:
+
+O gráfico a seguir ilustra o perfil de digestão de quatro 
+substâncias no organismo humano, de acordo com a variação 
+do pH.
+
+{imagem}
+
+A análise dos dados permite concluir que a(s) 
+(A) digestão da substância I é feita por amilases presentes no 
+duodeno. 
+(B) digestão da substância II é feita por lipases presentes da 
+boca. 
+(C) substância III é um amido digerido por amilases presentes 
+boca. 
+(D) substância IV é uma proteína digerida pela bile no 
+estômago. 
+(E) substâncias I, II e III são digeridas, respectivamente, na 
+boca, no estômago e no duodeno.
