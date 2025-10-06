@@ -1,0 +1,33 @@
+Questão 27:
+
+Uma empresa júnior de alunos de engenharia projetou um 
+termômetro mecânico para medir a temperatura do óleo 
+utilizado em máquinas e equipamentos, com base na variação 
+da densidade do óleo com a temperatura. Com essa 
+finalidade, emprega-se um objeto de massa 𝑀 igual a 18 g e 
+volume de 20 cm3, que permanece imerso em um óleo e está 
+preso, por um fio, ao fundo da superfície, conforme mostra a 
+figura. 
+A temperatura é medida por meio da variação na tensão do 
+fio, que muda devido à variação da densidade do óleo com a 
+temperatura. O gráfico a seguir mostra a dependência da 
+densidade
+
+{imagem}
+
+A temperatura é medida por meio da variação na tensão do 
+fio, que muda devido à variação da densidade do óleo com a 
+temperatura. O gráfico a seguir mostra a dependência da 
+densidade do óleo com a temperatura. 
+
+{imagem}
+
+Nessa configuração, a temperatura na qual a tensão na corda 
+se anula é igual a 
+(A) 0°C 
+(B) 75°C 
+(C) 100°C 
+(D) 150°C 
+(E) 275°C
+
+{imagem}
