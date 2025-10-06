@@ -34,7 +34,3 @@ possuem 2 conexões de grau 2 diferentes.
 todas as outras pessoas da rede social. 
 (E) Existe apenas 1 pessoa 𝑃i (i ≠ 3) tal que 𝑃i e 𝑃3 seguem-se 
 mutuamente.
-
-Note e adote: 
-A posição bmn da matriz produto 𝑀×𝑀=𝑀^2 é dada pela expressão  
-bmn = 𝑎m1 𝑎1n + 𝑎m2 𝑎2m + 𝑎m3 𝑎3n + 𝑎m4 𝑎4n
