@@ -1,7 +1,5 @@
 Questão 31:
 
-(Arrumar)
-
 O reservatório de um caminhão-pipa tem a forma de um 
 cilindro circular reto com eixo horizontal e dimensões internas 
 de 6 metros de comprimento e 2 metros de diâmetro. Uma 
