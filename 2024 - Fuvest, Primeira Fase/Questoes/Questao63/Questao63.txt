@@ -1,0 +1,26 @@
+Questão 63:
+
+Uma Árvore Pitagórica é uma figura plana que é construída 
+por etapas. Na Etapa 1, ela começa com um quadrado de lado 
+1 cm. Na Etapa 2, constroem-se dois quadrados acima do 
+quadrado da Etapa 1, de tal forma que a medida de seus lados 
+seja igual à medida dos catetos do triângulo retângulo 
+isósceles que possui hipotenusa igual ao lado do quadrado da 
+Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos 
+quadrados obtidos, e assim por diante. Ou seja, em cada nova 
+etapa, aplica-se a etapa anterior em cada um dos novos 
+quadrados obtidos. A figura a seguir exibe as quatro primeiras 
+etapas da construção da Árvore Pitagórica. 
+
+{imagem}
+
+A partir de qual etapa da construção o lado de cada um dos 
+novos quadrados obtidos fica, pela primeira vez, menor do 
+que 1 décimo de milésimo do lado do quadrado da Etapa 1? 
+(A) 26 
+(B) 27 
+(C) 28 
+(D) 29 
+(E) 30
+
+{imagem}

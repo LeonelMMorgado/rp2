@@ -1,0 +1,23 @@
+Questão 73:
+
+Um experimento de demonstração sobre ondas estacionárias 
+faz uso de uma canaleta disposta horizontalmente, contendo 
+grãos de areia fina e seca. Abaixo da canaleta, posiciona-se um 
+alto-falante que transmite um som, produzindo, na canaleta, 
+uma vibração, associada a uma onda estacionária com um 
+comprimento de onda bem definido. O diagrama representa 
+uma imagem digitalizada dos grãos de areia depositados na 
+base da canaleta em um certo instante. Utilize a régua da 
+figura, graduada em centímetros, para assinalar a alternativa 
+que apresenta a melhor aproximação para o valor do 
+comprimento de onda da vibração em questão. 
+
+{imagem}
+
+(A) 1,2 cm
+ (B) 5,1 cm 
+(C) 6,8 cm 
+(D) 11,3 cm 
+(E) 18,1 cm
+
+{imagem}

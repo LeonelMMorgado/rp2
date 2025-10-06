@@ -1,0 +1,23 @@
+Questão 47:
+
+{imagem}
+
+A partir dos dados e dos seus conhecimentos, é correto 
+afirmar: 
+(A) O modal aquaviário, com menor custo e maior capacidade 
+de carga, predomina em mais da metade dos países 
+representados no gráfico. 
+(B) Nos EUA, em decorrência da baixa necessidade de 
+transporte de cargas, predomina o modal rodoviário, com 
+menor custo no transporte de pessoas. 
+(C) Predominante no país, o modal aquaviário no Canadá tem 
+alto custo, em decorrência das condições climáticas que 
+mantêm os cursos d’águas de todo o país congelados na 
+maior parte do ano. 
+(D) Apesar de possuir maior custo, a matriz brasileira, 
+assentada no modal rodoviário, é mais eficiente 
+considerando a capacidade de transporte em grandes 
+quantidades e longos percursos. 
+(E) A predominância do modal aquaviário na China faz parte 
+da estratégia do país de aliar a diminuição dos custos de 
+transporte à busca de modais menos poluentes.

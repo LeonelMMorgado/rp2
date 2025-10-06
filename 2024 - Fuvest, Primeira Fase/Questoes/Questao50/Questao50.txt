@@ -1,0 +1,22 @@
+Questão 50:
+
+Um carro movimentava-se por uma rua de mão única, com 
+sentido da esquerda para a direita, e deixou no asfalto o 
+padrão de pingos de óleo indicado na figura I.
+
+{imagem}
+
+Entre as curvas no gráfico da figura II, indique aquela que 
+melhor corresponde à dependência da posição do carro com 
+o tempo, segundo esses pingos. Adote como positivo o 
+sentido para a direita, conforme a indicação da seta em I.
+
+{imagem}
+
+(A)Curva 𝑎.
+ (B) Curva 𝑏. 
+(C) Curva 𝑐. 
+(D) Curva 𝑑. 
+(E) Curva 𝑒. 
+
+{imagem}

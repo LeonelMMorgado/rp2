@@ -1,0 +1,24 @@
+Questão 56:
+
+Um tema de grande interesse na química é a ativação seletiva 
+de ligações C-H. Essa ativação permite a substituição de H 
+nessas ligações por outros átomos, como O ou N. A relevância 
+desse tema pode ser verificada em um estudo recentemente 
+publicado no prestigioso periódico Science, que conta com 
+uma egressa da USP dentre seus autores. 
+A baixa diferença de eletronegatividade entre C e H é um dos 
+motivos que dificulta a ativação da ligação C-H, pois torna a 
+ligação pouco polar e diminui sua reatividade.
+
+{imagem}
+
+Considerando apenas a eletronegatividade, representada no 
+gráfico, qual das alternativas apresenta uma ligação ainda 
+menos reativa do que a ligação C-H? 
+(A) C-N 
+(B) C-F 
+(C) S-O 
+(D) P-H 
+(E) P-Cl 
+
+{imagem}

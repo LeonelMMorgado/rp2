@@ -1,0 +1,21 @@
+Questão 72:
+
+Um protótipo de máquina térmica caseira baseia-se num 
+motor de quatro etapas e pode ser construído com o auxílio 
+de uma bomba de bicicleta, uma pequena câmara de pneu e 
+um aquecedor térmico. Na primeira etapa, o gás da câmara 
+de pneu é comprimido adiabaticamente. Na segunda etapa, o 
+gás é aquecido isovolumetricamente. Na terceira etapa, o gás 
+sofre uma expansão adiabática e, finalmente, na quarta 
+etapa, um resfriamento isovolumétrico. 
+Assinale a alternativa que melhor representa o diagrama 
+correspondente a essa máquina térmica no plano 
+pressão (𝑝) 𝑥 volume (𝑉). 
+
+{imagem}
+
+(A) {imagem}
+(B) {imagem}
+(C) {imagem}
+(D) {imagem}
+(E) {imagem}

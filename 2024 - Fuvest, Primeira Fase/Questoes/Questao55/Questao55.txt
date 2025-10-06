@@ -1,0 +1,23 @@
+Questão 55:
+
+{imagem}
+
+Como ilustrado pela foto, o gerador de Van de Graaf, 
+equipamento popular em parques de ciência, permite o 
+acúmulo de cargas elétricas em uma cúpula metálica. A 
+distribuição de cargas na cúpula de um desses geradores, 
+quando ninguém a toca, pode ser considerada esférica. Dois 
+desses geradores, A e B, estão separados por uma certa 
+distância. O gerador A contém uma carga +𝑄, e o gerador B, 
+uma carga +2𝑄, com 𝑄>0. 
+
+{imagem}
+
+Entre as alternativas, assinale aquela que melhor corresponde 
+ao vetor campo elétrico resultante produzido pelos geradores 
+no ponto médio P entre eles. 
+(A) → 
+(B) ↑ 
+(C) ← 
+(D) ↓ 
+(E) nulo

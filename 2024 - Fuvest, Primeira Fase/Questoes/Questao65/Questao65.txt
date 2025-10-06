@@ -1,0 +1,31 @@
+Questão 65:
+
+Em fevereiro de 2023, ocorreu uma precipitação pluviométrica 
+extrema no litoral norte de São Paulo, com volume que excedeu 
+os 600 mm de chuva em menos de 24 horas. Foi um dos 
+maiores índices pluviométricos já registrados no Brasil para um 
+dia. Essa grande quantidade de chuva provocou muitos 
+deslizamentos de terra, como o retratado na imagem. 
+
+{imagem}
+
+Considerando o contexto socioambiental em que esse 
+episódio ocorreu, é correto afirmar: 
+(A) Apesar das altas declividades nas encostas da Serra do 
+Mar, eventos como esse são raros, uma vez que os solos 
+profundos e a vegetação primária dificultam os 
+deslizamentos de terra. 
+(B) No local do deslizamento de terra, ocorrerá um processo 
+de sucessão primária e, após poucos anos, uma floresta 
+madura estará estabelecida. 
+(C) A baixa umidade da região e a indisponibilidade de 
+nutrientes no solo retardarão a instalação de organismos 
+pioneiros, como os líquens, que iniciarão o processo de 
+sucessão nesse local. 
+(D) Fenômenos desse tipo são causados por fatores naturais da 
+região, relacionados ao clima, à geologia e ao relevo, mas 
+são agravados pela ocupação desordenada das encostas. 
+(E) No local do deslizamento de terra, a biomassa vegetal 
+aumentará ao longo da sucessão ecológica graças a um 
+equilíbrio energético no sistema, em que as taxas de 
+fotossíntese e respiração permanecerão equivalentes.

@@ -1,0 +1,30 @@
+Questão 49:
+
+No Código de Obras e Edificações da Prefeitura de São Paulo, 
+encontra-se a regulamentação para vagas de estacionamento 
+em um edifício para diferentes tipos de veículos. De acordo 
+com o código, as dimensões de uma vaga de estacionamento 
+são estabelecidas de acordo com o tipo de veículo, conforme 
+a seguinte tabela:
+
+{imagem}
+
+Na figura a seguir, é apresentada parte de um projeto de 
+garagem para um edifício. Foram projetadas vagas para 
+automóveis e uma vaga para moto, no formato de 
+paralelogramo, com ângulo α de medida 60°.
+
+{imagem}
+
+Após a vaga da moto, restou um espaço na garagem. Os 
+responsáveis pela obra estão avaliando a possibilidade de 
+colocar algum objeto que possa ser utilizado pelos 
+condôminos do edifício. Qual a medida do segmento 
+destacado (tracejado) nesse espaço? 
+(A) 0,75 m 
+(B) 1,15 m 
+(C) 1,25 m 
+(D) 2,20 m 
+(E) 2,25 m
+
+{imagem}

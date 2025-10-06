@@ -1,0 +1,32 @@
+Questão 85:
+
+Números figurados são números que expressam o total de 
+pontos em certas configurações geométricas. Um exemplo de 
+números figurados são os triangulares, os quais são números 
+naturais que podem ser representados geometricamente na 
+forma de um triângulo. Os quatro primeiros números 
+triangulares estão ilustrados na figura I. Apesar de o número 
+1 não representar um triângulo, ele é considerado um número 
+triangular. 
+
+{imagem}
+
+Outro exemplo de número figurado é o número oblongo, o 
+qual representa o total de pontos de um quadro retangular 
+em que o número de colunas é uma unidade a mais do que o 
+número de linhas. Os quatro primeiros números oblongos 
+estão ilustrados na figura II. Apesar de o número 2 não 
+representar um quadro retangular, ele é considerado um 
+número oblongo. 
+
+{imagem}
+
+A respeito de números triangulares e números oblongos, 
+assinale a alternativa correta. 
+(A) 162 é o 15º número triangular. 
+(B) O 13º número triangular é primo e o 30º número oblongo 
+é ímpar. 
+(C) 156 não é um número oblongo, nem triangular. 
+(D) 210 é um número triangular e oblongo. 
+(E) A diferença entre dois números triangulares consecutivos 
+são termos de uma progressão geométrica.

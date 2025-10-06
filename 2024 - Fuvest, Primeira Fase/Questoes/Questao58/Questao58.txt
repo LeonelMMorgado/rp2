@@ -1,0 +1,23 @@
+Questão 58:
+
+No processo de compra e venda de artigos de ouro, é comum 
+testar os objetos para verificar se eles realmente são feitos de 
+ouro ou se são alguma falsificação feita com metais menos 
+nobres. Esse teste pode ser feito adicionando um pequeno 
+volume de ácido forte concentrado às raspas do objeto a ser 
+testado, conforme figura a seguir. Caso o objeto seja feito com 
+ouro, as raspas permanecem visíveis, enquanto as raspas de 
+falsificações são dissolvidas. 
+
+{imagem}
+
+Considerando apenas o potencial de redução padrão, qual das 
+alternativas apresenta um material que poderia gerar um 
+falso positivo para o objeto de ouro no teste descrito? 
+(A) Mg 
+(B) Al 
+(C) Fe 
+(D) Pt 
+(E) F2
+
+{imagem}

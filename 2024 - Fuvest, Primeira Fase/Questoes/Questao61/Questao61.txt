@@ -1,0 +1,25 @@
+Questão 61:
+
+O gráfico a seguir representa a curva de biomassa e 
+biodiversidade em diferentes partes do globo. 
+
+{imagem}
+
+Sobre os ambientes do globo terrestre que podem ser 
+exemplificados pelos dados demonstrados no gráfico, é 
+correto afirmar que, onde o índice de aridez é igual a 
+(A) 1 e o balanço de radiação é igual a 70 kcal/cm2, a curva de 
+biomassa e biodiversidade atinge o ápice, caracterizando, 
+por exemplo, o ambiente de uma floresta equatorial. 
+(B) 2 e o balanço de radiação é igual a 40 kcal/cm2, é possível 
+inferir os ambientes compostos por savanas ou cerrados, 
+com crescimento da curva de biomassa e biodiversidade. 
+(C) 0 e o balanço de radiação é igual também a 0, encontram
+se os ambientes desérticos muito quentes, a exemplo do 
+deserto do Saara. 
+(D) 3 e o balanço de radiação é igual a 0, a curva de biomassa 
+e biodiversidade indica exemplo típico de ambiente 
+tropical úmido. 
+(E) 1,5 e o balanço de radiação é igual a 55 kcal/cm2, a curva 
+de biomassa e biodiversidade diminui, caracterizando os 
+ambientes com presença de neve eterna.
