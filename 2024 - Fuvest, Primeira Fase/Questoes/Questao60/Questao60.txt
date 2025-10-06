@@ -1,0 +1,14 @@
+Questão 60:
+
+
+Considere o sistema linear:
+
+{imagem}
+
+Assinale a alternativa que representa graficamente esse sistema. 
+
+(A) {imagem}
+(B) {imagem}
+(C) {imagem}
+(D) {imagem}
+(E) {imagem}
