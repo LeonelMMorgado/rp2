@@ -1,0 +1,14 @@
+Questão 59:
+
+{imagem}
+
+Considere a função 𝑓, dada por 𝑓(𝑥) = 𝑏^x , com 𝑏>0, 𝑏≠1 
+e 𝑥 ∈ ℝ, e a sua inversa 𝑓^(-1) . A figura destaca dois pontos, um 
+pertencente ao gráfico de 𝑓 e outro ao gráfico de 𝑓^(-1) . 
+Determine 𝑏+ 𝑘.
+
+(A) {imagem}  
+(B) {imagem}  
+(C) {imagem}  
+(D) {imagem}  
+(E) {imagem}  
