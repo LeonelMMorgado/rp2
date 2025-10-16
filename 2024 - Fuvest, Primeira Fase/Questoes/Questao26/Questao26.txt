@@ -1,7 +1,5 @@
 Questão 26:
 
-(Arrumar)
-
 Nas embalagens de lâmpadas de LED atuais, está indicada 
 uma “temperatura de cor” (expressa na escala Kelvin), que 
 corresponde à tonalidade da luz emitida pela lâmpada. A 
@@ -18,6 +16,8 @@ luz irradiada.
 Com base nessas informações, assinale a alternativa que 
 apresenta o gráfico que melhor corresponde à situação em 
 que a cor predominante da luz irradiada seja amarela.
+
+{imagem}
 
 (A) {imagem}
 (B) {imagem}
