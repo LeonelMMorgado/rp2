@@ -7,8 +7,8 @@ e 𝑥 ∈ ℝ, e a sua inversa 𝑓^(-1) . A figura destaca dois pontos, um
 pertencente ao gráfico de 𝑓 e outro ao gráfico de 𝑓^(-1) . 
 Determine 𝑏+ 𝑘.
 
-(A) {imagem}  
-(B) {imagem}  
-(C) {imagem}  
-(D) {imagem}  
-(E) {imagem}  
+(A) 5/9
+(B) 1
+(C) 6/5 
+(D) 13/5 
+(E) 18/5
